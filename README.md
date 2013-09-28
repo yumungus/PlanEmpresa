@@ -1,7 +1,7 @@
 #PLAN DE EMPRESA 
 
 
-###**1. DATOS BÁSICOS DEL PROYECTO**
+##**1. DATOS BÁSICOS DEL PROYECTO**
 
 + **Nombre de identificación del proyecto:** Yakety Yak.
 
@@ -16,13 +16,19 @@
 
 + **Explicación breve de la actividad a desarrollar:**
 
-> Este punto debe recoger de una forma simplificada la naturaleza del negocio, las características del proyecto, el sector 
-> de actividad en el que se encuadra el producto o servicio, sus ventajas competitivas y la base sobre la que se apoyan las 
-> afirmaciones contenidas en el Plan de Empresa.
+Con este proyecto pretendemos establecer una red social mundial para poder practicar idiomas.
+En una primera etapa, pondremos en contacto a la población española con angloparlantes facilitando, de este modo, la 
+práctica del inglés hablando con nativos. Del mismo modo, los angloparlantes practicarán el español con nativos de 
+nuestro país para aumentar sus conocimientos estableciéndose una relación de mutuo beneficio.
+
+Otra característica única de nuestro servicio es la posibilidad de planificar viajes por todo el mundo a través del 
+contacto con personas que residan en su próximo destino. De este modo, podrán planificar su viaje obteniendo información
+de residentes del país que quieren visitar.
 
 + **Nº de trabajadores previstos**
 
-> Se debe cuantificar el número de trabajadores que tiene la empresa.
+En una primera etapa constará de tres personas, las creadoras de la empresa. Se irán contratando más empleados conforme
+se vayan necesitando para ofrecer un mejor servicio a la comunidad. 
 
 + **Cuantificación de la inversión necesaria y su financiación:**
 
@@ -38,12 +44,24 @@
 ----------------------------------------
 
 
-###2. PROMOTORES DEL PROYECTO 
+##2. PROMOTORES DEL PROYECTO 
 
 + **Identificación de los promotores. Datos personales:**
 
-> Constará en este apartado el nombre y los datos personales de los promotores del proyecto 
-> (nombre, N.I.F., domicilio,…)
+ **Nombre:** Belen // **Apellidos:** Malo     
+ **N.I.F.:**  // **Fecha de nacimiento:**    
+ **Domicilio:**   // **C.P.:**     
+ **Ciudad:**  // **Provincia:**  // **País:** 
+
+ **Nombre:** Inmaculada // **Apellidos:** Reyes Rodríguez     
+ **N.I.F.:** 53621436A // **Fecha de nacimiento:** 01/09/1985   
+ **Domicilio:** c/virgen de loreto 10, bajo A.  // **C.P.:** 28220    
+ **Ciudad:** Majadahonda. // **Provincia:** Madrid. // **País:** España.
+ 
+ **Nombre:** Siomara // **Apellidos:** Vallejos     
+ **N.I.F.:**  // **Fecha de nacimiento:**    
+ **Domicilio:**   // **C.P.:**     
+ **Ciudad:**  // **Provincia:**  // **País:** 
 
 + **Breve historial profesional de los promotores:**
 
@@ -66,7 +84,7 @@
 ----------------------------------------
 
 
-###3. DESCRIPCIÓN DE LOS PRODUCTOS / SERVICIOS 
+##3. DESCRIPCIÓN DE LOS PRODUCTOS / SERVICIOS 
 
 + **Identificación de los productos / servicios:**
 
@@ -89,7 +107,7 @@
 ----------------------------------------
 
 
-###4. PLAN DE PRODUCCIÓN
+##4. PLAN DE PRODUCCIÓN
 
 > Tiene como objetivo hacer constar todos los aspectos técnicos y organizativos que conciernen a la elaboración de los 
 > productos o a la prestación de servicios recogidos en el Plan de Empresa.
