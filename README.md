@@ -35,6 +35,7 @@
 
 
 ----------------------------------------
+----------------------------------------
 
 
 ###2. PROMOTORES DEL PROYECTO 
@@ -59,3 +60,26 @@
 
 > En este apartado se indicará el grado de implicación que tendrán los promotores en el desarrollo del proyecto, pues 
 > es bien valorado que los que promueven una idea empresarial colaboren en el progreso de la misma.
+
+
+----------------------------------------
+----------------------------------------
+
+
+###3. DESCRIPCIÓN DE LOS PRODUCTOS / SERVICIOS 
+
++ **Identificación de los productos / servicios:**
+
+> En este punto se deben describir de una forma amplia los productos o servicios a ofrecer.
+
++ **Descripción de las características técnicas de los productos o servicios:**
+
+> Este apartado debe contener una explicación detallada del concepto básico y de las características técnicas de los 
+> productos o servicios. Debe contener una indicación expresa de las cualidades más significativas , de las ventajas que 
+> aportan , de los soportes tecnológicos donde se apoyan, …
+
++ **Elementos innovadores que incorporan, caracteres diferenciales respecto a los de la competencia:**
+
+> Se debe recoger las especificaciones de los elementos innovadores que incorporan los productos o servicios que se van
+> a lanzar, explicando claramente la diferenciación con la oferta actual de los del resto de competidores existentes en 
+> el mercado.
