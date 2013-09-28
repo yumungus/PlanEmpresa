@@ -32,3 +32,30 @@
 > + **Inversión**	………………….Euros.
 > + **Financiación propia**	………………….Euros.
 > + **Financiación ajena**	………………….Euros.
+
+
+----------------------------------------
+
+
+###2. PROMOTORES DEL PROYECTO 
+
++ **Identificación de los promotores. Datos personales:**
+
+> Constará en este apartado el nombre y los datos personales de los promotores del proyecto 
+> (nombre, N.I.F., domicilio,…)
+
++ **Breve historial profesional de los promotores:**
+
+>Este punto es fundamental de cara a otorgar credibilidad a un proyecto, ya que los inversores quieren saber si el 
+>equipo directivo es capaz de llevar a cabo el negocio.
+
+> Debe incluirse en el mismo referencias a:
+
+> + **Perfil de los promotores:** educación, experiencia profesional, éxito en el mundo laboral, etc.
+> + **Experiencia o habilidades de los promotores para llevar a cabo el proyecto:** que capacidades/experiencia tienen 
+> los miembros del equipo que hagan posible la puesta en marcha y gestión del nuevo negocio.
+
++ **Grado de dedicación futura al proyecto:**
+
+> En este apartado se indicará el grado de implicación que tendrán los promotores en el desarrollo del proyecto, pues 
+> es bien valorado que los que promueven una idea empresarial colaboren en el progreso de la misma.
