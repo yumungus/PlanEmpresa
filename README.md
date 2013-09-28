@@ -152,3 +152,52 @@ se vayan necesitando para ofrecer un mejor servicio a la comunidad.
 
 > + Descripción de los procesos del control de calidad, control de inventarios y procedimientos de inspección que 
 > garanticen mínimos costes y eviten problemas de insatisfacción en los clientes.
+
+
+----------------------------------------
+----------------------------------------
+
+
+##5. ANÁLISIS DEL MERCADO
+
+> Este apartado del Plan de Empresa nos ayudará a determinar la existencia de un mercado para el producto o servicio, 
+> y mediante la información que se obtenga se podrá diseñar una estrategia de penetración y diferenciación de los 
+> mismos. Un análisis de mercado debe contemplar los siguientes puntos:
+
++ **Aspectos generales del sector**
+
+> En este punto se debe estudiar, en general, el sector donde va a estar el nuevo producto o servicio. Se tienen que 
+> analizar las previsiones y el potencial de crecimiento del sector, y es necesario profundizar en preguntas tales como:
+> ¿es un mercado en expansión o en decadencia?, ¿es un sector concentrado o fragmentado?, ¿existen factores que pueden 
+> influenciar la actual estructura de mercado de forma considerable?, ¿nuevas tendencias de la industria, factores 
+> socioeconómicos, tendencias demográficas, etc.?.
+
+> Hay que analizar el tamaño actual del mercado, el porcentaje de crecimiento o decrecimiento del mismo y los 
+> comportamientos de compra de los clientes potenciales.
+
++ **Clientes potenciales**
+
+> El estudio de mercado debe determinar quienes son y serán los clientes potenciales. Éstos deben ser agrupados en 
+> grupos relativamente homogéneos con características comunes.
+
+> El estudio deberá demostrar el grado de receptividad de los clientes potenciales a los productos o servicios 
+> ofertados, e igualmente tendrá que describir los elementos en los que los clientes basan sus decisiones de 
+> compra(precio, calidad, distribución, servicio, etc.). En el caso de que existieran clientes potenciales interesados 
+> en el producto o servicio, esto sería muy favorable de cara a posibles futuros inversores.
+
++ **Análisis de la competencia**
+
+> El promotor debe conocer el tipo de competidores a los que se va a enfrenar y sus fortalezas y debilidades. Tiene que 
+> tener información de su localización, las características de sus productos o servicios, sus precios, su calidad, la 
+> eficacia de su distribución, su cuota de mercado, sus políticas comerciales etc.
+
+> Hay que conocer a los líderes en cada una de las características vistas anteriormente y la importancia que otorgan a 
+> las mismas los clientes potenciales.
+
+> Dentro del análisis de la competencia actualmente es necesario tener en cuenta la globalización de la economía, el 
+> avance de las telecomunicaciones, el comercio electrónico etc.
+
++ **Barreras de entrada**
+
+> El estudio de mercado debe analizar las barreras de entrada presentes y futuras en el mercado para poder determinar 
+> la viabilidad previa del acceso al mismo y la fortaleza del producto o servicio en él.
