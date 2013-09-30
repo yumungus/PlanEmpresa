@@ -45,8 +45,8 @@ la idea.
 
 + **Cuantificación de la inversión necesaria y su financiación:**
 
-> En este apartado se debe recoger, de forma resumida, la inversión que se tiene previsto acometer, así como la forma de 
-> financiación prevista para las inversiones descritas.
+> En este apartado se debe recoger, de forma resumida, la inversión que se tiene previsto acometer, así como la
+> forma de financiación prevista para las inversiones descritas.
 
 > + **Inversión**	………………….Euros.
 > + **Financiación propia**	………………….Euros.
@@ -61,20 +61,20 @@ la idea.
 
 + **Identificación de los promotores. Datos personales:**
 
- **Nombre:** Belen // **Apellidos:** Malo     
- **N.I.F.:**  // **Fecha de nacimiento:**    
- **Domicilio:**   // **C.P.:**     
- **Ciudad:**  // **Provincia:**  // **País:** 
+ **Nombre:** Belen // **Apellidos:** Malo Ramírez    
+ **N.I.F.:** 53386863E // **Fecha de nacimiento:** 18/05/1982   
+ **Domicilio:** c/Valle del Roncal 16, Apt. 204 // **C.P.:** 28232    
+ **Población:** Las Rozas // **Provincia:** Madrid  // **País:** España
 
  **Nombre:** Inmaculada // **Apellidos:** Reyes Rodríguez     
  **N.I.F.:** 53621436A // **Fecha de nacimiento:** 01/09/1985   
  **Domicilio:** c/virgen de loreto 10, bajo A.  // **C.P.:** 28220    
- **Ciudad:** Majadahonda. // **Provincia:** Madrid. // **País:** España.
+ **Población:** Majadahonda. // **Provincia:** Madrid. // **País:** España.
  
- **Nombre:** Siomara // **Apellidos:** Vallejos     
- **N.I.F.:**  // **Fecha de nacimiento:**    
- **Domicilio:**   // **C.P.:**     
- **Ciudad:**  // **Provincia:**  // **País:** 
+ **Nombre:** Siomara // **Apellidos:** Vallejos Holguin    
+ **N.I.F.:** Y0343085P  // **Fecha de nacimiento:** 08/02/1985   
+ **Domicilio:** c/Tomás Gil 10, 2ºD  // **C.P.:** 28693     
+ **Población:** Quijorna  // **Provincia:** Madrid // **País:** España.
 
 + **Breve historial profesional de los promotores:**
 
