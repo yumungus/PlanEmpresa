@@ -89,8 +89,8 @@ la idea.
 
 + **Grado de dedicación futura al proyecto:**
 
-> En este apartado se indicará el grado de implicación que tendrán los promotores en el desarrollo del proyecto, pues 
-> es bien valorado que los que promueven una idea empresarial colaboren en el progreso de la misma.
+El entusiasmo que nos otorga este proyecto nos motiva a trabajar plenamente en este plan de futuro ya que confiamos 
+en las posibilidades que nos ofrece a largo plazo.
 
 
 ----------------------------------------
