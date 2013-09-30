@@ -77,9 +77,18 @@ la idea.
  **Población:** Quijorna  // **Provincia:** Madrid // **País:** España.
 
 + **Breve historial profesional de los promotores:**
+>Siomara Vallejos Holguin :
+     **Titulacion:
+       *Desarrollo de Aplicciones web cursado en I.E.S. MARIA DE ZAYAS Y SOTO MAYOR .
+     **Experiencia profesional:
+       *2013-2012 Empresa SOFTWAREIM S.A.   programador senior
+                    * Formaba parate del equipo de desarrollo que se encargaba de los desarrollos evolutivos de 
+                     de portales web de empresas de seguro  www.sanaduseguros.es
+      
+
 
 >Este punto es fundamental de cara a otorgar credibilidad a un proyecto, ya que los inversores quieren saber si el 
->equipo directivo es capaz de llevar a cabo el negocio.
+>equipo directivo es capaz de llear a cabo el negocio.
 
 > Debe incluirse en el mismo referencias a:
 
