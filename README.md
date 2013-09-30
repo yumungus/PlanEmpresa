@@ -80,9 +80,9 @@ la idea.
 #### Perfiles:
 **Siomara Vallejos Holguin :**
 > **Titulacion:**
-       *Desarrollo de Aplicciones web cursado en I.E.S. MARIA DE ZAYAS Y SOTO MAYOR .
+       *Desarrollo de Aplicciones web cursado en I.E.S. MARIA DE ZAYAS Y SOTO MAYOR \.
 > **Experiencia profesional:**
-       *2013-2012  Empresa SOFTWAREIM S.A.   programador senior.
+       *2013-2012  Empresa SOFTWAREIM S.A.   programador senior \.
                     Formaba parate del equipo de desarrollo que se encargaba de los desarrollos evolutivos de 
                     de portales web de empresas de seguro  www.sanaduseguros.es
       
