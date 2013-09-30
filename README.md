@@ -22,8 +22,19 @@ práctica del inglés hablando con nativos. Del mismo modo, los angloparlantes p
 nuestro país para aumentar sus conocimientos estableciéndose una relación de mutuo beneficio.
 
 Otra característica única de nuestro servicio es la posibilidad de planificar viajes por todo el mundo a través del 
-contacto con personas que residan en su próximo destino. De este modo, podrán planificar su viaje obteniendo información
-de residentes del país que quieren visitar.
+contacto con personas que residan en su próximo destino. De este modo, podrán planificar su viaje obteniendo 
+información de residentes del país que quieren visitar.
+
+El motivo por el que hemos elegido esta idea en detrimento de otras es debido a:
+1. La necesidad no demorable de que los españoles hablen inglés.
+2. Una vez demostrado que el método que se viene impartiendo tanto en las academias como en los centros de enseñanza
+españoles no es válido. Por ello, proponemos una nueva alternativa (llevada a cabo con éxito en muchos países) 
+aprender hablando con nativos.
+3. No solo partimos de la motivación ya comentada sino que además ofrecemos la posibilidad de interactuar con
+personas de todo el mundo facilitándonos el conocimiento de su cultura de primera mano. 
+4. La inversión principal de este proyecto es el esfuerzo, el trabajo y el tiempo pasando el aspecto económico a 
+un segundo plano ya que en un primer momento no se necesitarán bienes materiales tales como un local de trabajo, 
+material de oficina, etc.
 
 + **Nº de trabajadores previstos**
 
