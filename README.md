@@ -38,8 +38,10 @@ material de oficina, etc.
 
 + **Nº de trabajadores previstos**
 
-En una primera etapa constará de tres personas, las creadoras de la empresa. Se irán contratando más empleados conforme
-se vayan necesitando para ofrecer un mejor servicio a la comunidad. 
+En una primera etapa constará de tres personas, las creadoras de la empresa. Se irán contratando más empleados 
+conforme se vayan necesitando para ofrecer un mejor servicio a la comunidad. Aunque cabe decir que contamos con 
+contactos clave en el mundo de la empresa así como de asesores personales los cuales ven factible el desarrollo de 
+la idea. 
 
 + **Cuantificación de la inversión necesaria y su financiación:**
 
