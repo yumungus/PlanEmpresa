@@ -3,18 +3,21 @@
 
 ##**1. DATOS BÁSICOS DEL PROYECTO**
 
-+ **Nombre de identificación del proyecto:** Yakety Yak.
+###1.1. **Nombre de identificación del proyecto:** 
+Yakety Yak.
 
-+ **Ubicación:** Majadahonda, Madrid. 
+###1.2. **Ubicación:** 
+Majadahonda, Madrid. 
 
-+ **Fecha de inicio:** 1 de septiembre de 2014.
+###1.3. **Fecha de inicio:** 
+1 de septiembre de 2014.
 
-+ **Tipo de sociedad:**
+###1.4. **Tipo de sociedad:**
 
 > Se debe indicar el régimen de constitución de la empresa. Si ésta no estuviera constituida, se haría referencia a la 
 > opción elegida por los promotores.
 
-+ **Explicación breve de la actividad a desarrollar:**
+###1.5. **Explicación breve de la actividad a desarrollar:**
 
 Con este proyecto pretendemos establecer una red social mundial para poder practicar idiomas.
 En una primera etapa, pondremos en contacto a la población española con angloparlantes facilitando, de este modo, la 
@@ -36,14 +39,14 @@ personas de todo el mundo facilitándonos el conocimiento de su cultura de prime
 un segundo plano ya que en un primer momento no se necesitarán bienes materiales tales como un local de trabajo, 
 material de oficina, etc.
 
-+ **Nº de trabajadores previstos**
+###1.6. **Nº de trabajadores previstos**
 
 En una primera etapa constará de tres personas, las creadoras de la empresa. Se irán contratando más empleados 
 conforme se vayan necesitando para ofrecer un mejor servicio a la comunidad. Aunque cabe decir que contamos con 
 contactos clave en el mundo de la empresa así como de asesores personales los cuales ven factible el desarrollo de 
 la idea. 
 
-+ **Cuantificación de la inversión necesaria y su financiación:**
+###1.7. **Cuantificación de la inversión necesaria y su financiación:**
 
 > En este apartado se debe recoger, de forma resumida, la inversión que se tiene previsto acometer, así como la
 > forma de financiación prevista para las inversiones descritas.
@@ -59,31 +62,31 @@ la idea.
 
 ##2. PROMOTORES DEL PROYECTO 
 
-+ **Identificación de los promotores. Datos personales:**
+###**2.1. Identificación de los promotores. Datos personales:**
 
- **Nombre:** Belen // **Apellidos:** Malo Ramírez    
- **N.I.F.:** 53386863E // **Fecha de nacimiento:** 18/05/1982   
- **Domicilio:** c/Valle del Roncal 16, Apt. 204 // **C.P.:** 28232    
- **Población:** Las Rozas // **Provincia:** Madrid  // **País:** España
+   **Nombre:** Belen // **Apellidos:** Malo Ramírez    
+   **N.I.F.:** 53386863E // **Fecha de nacimiento:** 18/05/1982   
+   **Domicilio:** c/Valle del Roncal 16, Apt. 204 // **C.P.:** 28232    
+   **Población:** Las Rozas // **Provincia:** Madrid  // **País:** España
+  
+   **Nombre:** Inmaculada // **Apellidos:** Reyes Rodríguez     
+   **N.I.F.:** 53621436A // **Fecha de nacimiento:** 01/09/1985   
+   **Domicilio:** c/virgen de loreto 10, bajo A.  // **C.P.:** 28220    
+   **Población:** Majadahonda. // **Provincia:** Madrid. // **País:** España.
+   
+   **Nombre:** Siomara // **Apellidos:** Vallejos Holguin    
+   **N.I.F.:** Y0343085P  // **Fecha de nacimiento:** 08/02/1985   
+   **Domicilio:** c/Tomás Gil 10, 2ºD  // **C.P.:** 28693     
+   **Población:** Quijorna  // **Provincia:** Madrid // **País:** España.
 
- **Nombre:** Inmaculada // **Apellidos:** Reyes Rodríguez     
- **N.I.F.:** 53621436A // **Fecha de nacimiento:** 01/09/1985   
- **Domicilio:** c/virgen de loreto 10, bajo A.  // **C.P.:** 28220    
- **Población:** Majadahonda. // **Provincia:** Madrid. // **País:** España.
- 
- **Nombre:** Siomara // **Apellidos:** Vallejos Holguin    
- **N.I.F.:** Y0343085P  // **Fecha de nacimiento:** 08/02/1985   
- **Domicilio:** c/Tomás Gil 10, 2ºD  // **C.P.:** 28693     
- **Población:** Quijorna  // **Provincia:** Madrid // **País:** España.
+###**2.2. Breve historial profesional de los promotores:**
 
-+ **Breve historial profesional de los promotores:**
-
- **Belen Malo Ramírez**
+####**Belen Malo Ramírez**
  + **Titulación:**
  + **Experiencia profesional:**
  + **Habilidades que favorecen al proyecto:**
 
- **Inmaculada Reyes Rodríguez**
+####**Inmaculada Reyes Rodríguez**
  + **Titulación:**     
      Bachillerato de Ciencias de la Salud y Naturales  
      Grado de Creación Gráfica y Digital en ESDIP  
@@ -111,8 +114,7 @@ la idea.
      Sacrificio de tiempo libre por trabajo si se requiere    
      Respeto hacia los plazos y el trabajo asignado     
      Actitud no derrochadora     
-
- **Siomara Vallejos Holguin :**
+####**Siomara Vallejos Holguin :**
  + **Titulacion:**       
    Desarrollo de Aplicciones web cursado en I.E.S. MARIA DE ZAYAS Y SOTOMAYOR   
  + **Experiencia profesional:**     
@@ -121,11 +123,8 @@ la idea.
               de empresas de seguro.
  + **Habilidades que favorecen al proyecto:**
 
-> + **Perfil de los promotores:** educación, experiencia profesional, éxito en el mundo laboral, etc.
-> + **Experiencia o habilidades de los promotores para llevar a cabo el proyecto:** que capacidades/experiencia tienen 
-> los miembros del equipo que hagan posible la puesta en marcha y gestión del nuevo negocio.
 
-+ **Grado de dedicación futura al proyecto:**
+###**2.3. Grado de dedicación futura al proyecto:**
 
 El entusiasmo que nos otorga este proyecto nos motiva a trabajar plenamente en este plan de futuro ya que confiamos 
 en las posibilidades que nos ofrece a largo plazo.
