@@ -1,7 +1,7 @@
 #PLAN DE EMPRESA (parte 2)
 
 
-##**6. plan de marketing**
+##**6. PLAN DE MARKETING**
 
 > El plan de marketing tiene como objetivo la fijación de las estrategias comerciales que permitan alcanzar la cifra 
 > de facturación que recogerá el análisis económico-financiero.
@@ -58,3 +58,170 @@
 ----------------------------------------
 
 
+##**7. ORGANIZACIÓN Y PERSONAL**
+
+> Este apartado del Plan de Empresa tiene como objetivo garantizar el correcto funcionamiento de los diferentes 
+> departamentos de la empresa, así como una apropiada coordinación de los mismos.
+
+> Debe incluir una descripción detallada de las funciones de todos los puestos de la empresa, directivos y de línea. 
+> Para cada persona que ocupe un puesto de responsabilidad es necesario describir en detalle su experiencia profesional
+> y su especialización en una determinada área funcional. Estas referencias hace que aumente la confianza de los 
+> posibles inversores en el equipo gestor.
+
+> También conviene describir las responsabilidades y tareas concretas que cada miembro de la organización ejercerá en 
+> el proyecto.
+
+> En cuanto al personal de línea, es necesario recoger las categorías laborales que existirán en la empresa, las tareas
+> a desempeñar por cada una de esas categorías, el convenio laboral al que se acogen los trabajadores, las fórmulas de
+> contratación y el número de trabajadores por categoría y puesto estableciendo turnos de trabajo que garanticen el
+> correcto funcionamiento de la empresa, y finalmente la remuneración correspondiente a cada grupo de trabajadores.
+
+> También es importante hacer referencia a la política global de la empresa en el área de recursos humanos, donde 
+> queden establecidos los planes de formación y especialización para todo el personal, las fórmulas de promoción y 
+> ascensos, y todo aquello que tenga referencia con temas sociales en la empresa.
+
+> Igualmente es conveniente confeccionar un organigrama de la empresa por áreas de actividad y que recoja las personas 
+> específicas que ocupen cada puesto de trabajo. Si esto no fuera posible, se debería hacer, al menos, un cuadro 
+> semejante al que se indica, donde se pueda ver el número de trabajadores y el departamento al que pertenecen.
+
+
+----------------------------------------
+----------------------------------------
+
+
+##**8. PLAN DE INVERSIONES**
+
+> Este punto refleja la decisión de invertir en una empresa, y se plasmará en el destino que se dará a unos fondos
+> financieros para obtener una serie de recursos necesarios para la realización de un determinado proceso productivo.
+
+**1. Inversiones en Activos fijos**
+
+> Al hablar en este punto de Plan de Inversiones hay que hacer referencia a lo que se denomina de forma genérica 
+> activos fijos, que constituyen una inversión a largo plazo y es una parte de la inversión global de la empresa.
+
+> La primera decisión de tipo estratégico que hay que plantearse es la ubicación, considerada en muchos casos vital 
+> para la viabilidad de un proyecto y que condicionará en el futuro el desarrollo del mismo.
+
+> En ocasiones, y dependiendo de la actividad, no tiene especial relevancia la ubicación.
+
+> En otras ocasiones, las características técnicas del producto, la naturaleza del servicio, la tecnología y otras 
+> muchas razones hacen que la localización de la empresa sea un problema importante. A veces son decisiones de las 
+> Administraciones (subvenciones, infraestructuras, etc.), las que condicionan la localización de la empresa.
+
+> Entre los factores de localización que hay que valorar están los siguientes:
+
+> + La proximidad con el mercado objetivo
+> + La cercanía a las materias primas
+> + Coste de transporte
+> + Oferta de mano d obra cualificada
+> + Existencia de buenas vías de comunicación
+> + Nivel de equipamiento de la zona
+> + Posibilidad de tener empresas auxiliares en las proximidades
+> + Previsión de futuras ampliaciones
+
+> Una vez determinada la localización de la empresa, habrá que determinar la naturaleza y características de los 
+>activos inmovilizados necesarios para el desarrollo de la actividad.
+
+> La empresa no se enfrenta a una sola alternativa de inversión, sino a varias con características diversas, por lo 
+> que es necesario un estudio de las características técnicas, coste de adquisición, gastos operativos, vida técnica, 
+> etc.
+
+> Otra de las decisiones a realizar en este apartado es determinar si se deben adquirir los bienes nuevos o usados.
+> Para la elección deben tenerse en cuenta tres factores: el precio, las condiciones de utilización y las posibles 
+> subvenciones por la adquisición de activos nuevos.
+
+> También hay que plantearse si es preferible comprar o alquilar los diferentes conceptos del activo. Esta decisión 
+> tiene un carácter económico financiero, que incluye consideraciones de carácter fiscal. No conviene olvidar en este
+> tema, el componente estratégico de optar por tener la propiedad de los bienes o únicamente el derecho de uso de los 
+>mismos.
+
+> La estructura de los activos fijos que conforman la empresa, ya sean nuevos o usados, es la siguiente:
+
+**1.1. Inmovilizado material**
+
+Son inversiones que realizará la empresa y que se materializarán en bienes muebles o inmuebles tangibles que no se destinarán a la venta o transformación.
+
+Tendrán un período de duración superior a un año y su deterioro o contribución al proceso productivo se materializará a través de las amortizaciones anuales (a excepción de los terrenos).
+
+Dentro de este capítulo estarían:
+
+Terrenos
+Edificaciones y construcciones:
+- Trabajos de planificación, ingeniería del proyecto y dirección facultativo
+- Traídas y acometidas de servicios
+- Urbanización y obras exteriores
+- Oficinas y laboratorios
+- Servicios sociales y sanitarios del personal
+- Almacenes de materias primas
+- Edificios de producción
+- Edificios de servicios industriales
+- Almacenes de productos terminados
+- Otras construcciones
+
+Instalaciones:
+- Instalaciones eléctricas en general y especiales
+- Instalaciones de climatización. Generadores térmicos. Instalaciones de G.L.P., etc.
+- Instalaciones de agua en general y especiales
+- Instalaciones de seguridad e higiene
+- Equipos de medida y control
+- Otras instalaciones internas
+
+Maquinaria y herramientas:
+- Maquinaria de proceso
+- Herramienta y utillaje
+
+Elementos de transporte interior
+Mobiliario y equipamiento
+Equipos informáticos y de procesamiento de la información
+Elementos de transporte
+Otros inmovilizados materiales
+Inmovilizado inmaterial
+
+Son inversiones o elementos patrimoniales intangibles que tiene la empresa con carácter estable y que son susceptibles de ser valorados económicamente.
+
+Dentro de este capítulo los más frecuentes son:
+
+Gastos de investigación y desarrollo
+concesiones administrativas
+Propiedad industrial
+Fondo de comercio
+Aplicaciones informáticas
+Derechos de traspaso
+Gastos amortizables
+
+Son aquellos gastos en que se incurre hasta el comienzo de la actividad. Forman parte de ellos los gastos de primer establecimiento y los gastos de constitución. Tienen consideración de gastos plurianuales y por lo tanto susceptibles de ser amortizados anualmente.
+
+Los más comunes son los de los abogados, notarios, registros, etc. ligados a la constitución de la personalidad jurídica de la empresa.
+
+Inmovilizado financiero
+
+Lo constituye fundamentalmente:
+
+Inversiones financieras permanentes
+Fianzas y depósitos
+Inversiones financieras en empresas del grupo
+Inversión en capital circulante
+
+La inversión vinculada al ciclo de explotación de la empresa se denomina capital circulante, y determina el volumen de recursos financieros que un proyecto necesita tener de forma permanente para hacer frente alas exigencias del proceso productivo.
+
+Período de maduración es el tiempo que transcurre entre la adquisición de las materias primas y el cobro del producto de las ventas, y determina con otros factores el volumen de fondos necesarios para el capital circulante.
+
+También se puede decir que el capital circulante es el activo circulante menos el pasivo circulante.
+
+Las partidas que suelen conceptuarse como circulante destacan:
+
+Activo circulante
+
+Caja y bancos
+Clientes, deudores y efectos a cobrar
+Existencias de materia prima
+Existencias de productos semielaborados
+Existencias de productos terminados
+Inversiones financieras a corto plazo
+Pasivo circulante
+
+Proveedores y acreedores
+Efectos a pagar
+Anticipo de clientes
+Préstamos a corto
+Impuestos a pagar
