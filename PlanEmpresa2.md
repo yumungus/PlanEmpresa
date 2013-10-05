@@ -137,91 +137,108 @@
 
 > La estructura de los activos fijos que conforman la empresa, ya sean nuevos o usados, es la siguiente:
 
-**1.1. Inmovilizado material**
+>> **1.1. Inmovilizado material**
 
-Son inversiones que realizará la empresa y que se materializarán en bienes muebles o inmuebles tangibles que no se destinarán a la venta o transformación.
+>> Son inversiones que realizará la empresa y que se materializarán en bienes muebles o inmuebles tangibles que no 
+>> se destinarán a la venta o transformación.
 
-Tendrán un período de duración superior a un año y su deterioro o contribución al proceso productivo se materializará a través de las amortizaciones anuales (a excepción de los terrenos).
+>> Tendrán un período de duración superior a un año y su deterioro o contribución al proceso productivo se 
+>> materializará a través de las amortizaciones anuales (a excepción de los terrenos).
 
-Dentro de este capítulo estarían:
+>> Dentro de este capítulo estarían:
 
-Terrenos
-Edificaciones y construcciones:
-- Trabajos de planificación, ingeniería del proyecto y dirección facultativo
-- Traídas y acometidas de servicios
-- Urbanización y obras exteriores
-- Oficinas y laboratorios
-- Servicios sociales y sanitarios del personal
-- Almacenes de materias primas
-- Edificios de producción
-- Edificios de servicios industriales
-- Almacenes de productos terminados
-- Otras construcciones
+>> **1.1.1. Terrenos**
+>> **1.1.2. Edificaciones y construcciones:**
+>> + Trabajos de planificación, ingeniería del proyecto y dirección facultativo
+>> + Traídas y acometidas de servicios
+>> + Urbanización y obras exteriores
+>> + Oficinas y laboratorios
+>> + Servicios sociales y sanitarios del personal
+>> + Almacenes de materias primas
+>> + Edificios de producción
+>> + Edificios de servicios industriales
+>> + Almacenes de productos terminados
+>> + Otras construcciones
 
-Instalaciones:
-- Instalaciones eléctricas en general y especiales
-- Instalaciones de climatización. Generadores térmicos. Instalaciones de G.L.P., etc.
-- Instalaciones de agua en general y especiales
-- Instalaciones de seguridad e higiene
-- Equipos de medida y control
-- Otras instalaciones internas
+>> **1.1.3. Instalaciones:**
+>> + Instalaciones eléctricas en general y especiales
+>> + Instalaciones de climatización. Generadores térmicos. Instalaciones de G.L.P., etc.
+>> + Instalaciones de agua en general y especiales
+>> + Instalaciones de seguridad e higiene
+>> + Equipos de medida y control
+>> + Otras instalaciones internas
 
-Maquinaria y herramientas:
-- Maquinaria de proceso
-- Herramienta y utillaje
+>> **1.1.4. Maquinaria y herramientas:**
+>> + Maquinaria de proceso
+>> + Herramienta y utillaje
 
-Elementos de transporte interior
-Mobiliario y equipamiento
-Equipos informáticos y de procesamiento de la información
-Elementos de transporte
-Otros inmovilizados materiales
-Inmovilizado inmaterial
+>> **1.1.5. Elementos de transporte interior**  
+>> **1.1.6. Mobiliario y equipamiento**  
+>> **1.1.7. Equipos informáticos y de procesamiento de la información**  
+>> **1.1.8. Elementos de transporte**  
+>> **1.1.9. Otros inmovilizados materiales**  
 
-Son inversiones o elementos patrimoniales intangibles que tiene la empresa con carácter estable y que son susceptibles de ser valorados económicamente.
+>> **1.2. Inmovilizado inmaterial**
 
-Dentro de este capítulo los más frecuentes son:
+>> Son inversiones o elementos patrimoniales intangibles que tiene la empresa con carácter estable y que son 
+>> susceptibles de ser valorados económicamente.
 
-Gastos de investigación y desarrollo
-concesiones administrativas
-Propiedad industrial
-Fondo de comercio
-Aplicaciones informáticas
-Derechos de traspaso
-Gastos amortizables
+>> Dentro de este capítulo los más frecuentes son:
 
-Son aquellos gastos en que se incurre hasta el comienzo de la actividad. Forman parte de ellos los gastos de primer establecimiento y los gastos de constitución. Tienen consideración de gastos plurianuales y por lo tanto susceptibles de ser amortizados anualmente.
+>> + Gastos de investigación y desarrollo
+>> + concesiones administrativas
+>> + Propiedad industrial
+>> + Fondo de comercio
+>> + Aplicaciones informáticas
+>> + Derechos de traspaso
 
-Los más comunes son los de los abogados, notarios, registros, etc. ligados a la constitución de la personalidad jurídica de la empresa.
+>> **1.3. Gastos amortizables**
 
-Inmovilizado financiero
+>> Son aquellos gastos en que se incurre hasta el comienzo de la actividad. Forman parte de ellos los gastos de 
+>> primer establecimiento y los gastos de constitución. Tienen consideración de gastos plurianuales y por lo tanto 
+>> susceptibles de ser amortizados anualmente.
 
-Lo constituye fundamentalmente:
+>> Los más comunes son los de los abogados, notarios, registros, etc. ligados a la constitución de la personalidad 
+>> jurídica de la empresa.
 
-Inversiones financieras permanentes
-Fianzas y depósitos
-Inversiones financieras en empresas del grupo
-Inversión en capital circulante
+**1.4. Inmovilizado financiero**
 
-La inversión vinculada al ciclo de explotación de la empresa se denomina capital circulante, y determina el volumen de recursos financieros que un proyecto necesita tener de forma permanente para hacer frente alas exigencias del proceso productivo.
+>> Lo constituye fundamentalmente:
 
-Período de maduración es el tiempo que transcurre entre la adquisición de las materias primas y el cobro del producto de las ventas, y determina con otros factores el volumen de fondos necesarios para el capital circulante.
+>> + Inversiones financieras permanentes
+>> + Fianzas y depósitos
+>> + Inversiones financieras en empresas del grupo
 
-También se puede decir que el capital circulante es el activo circulante menos el pasivo circulante.
+** 2. Inversión en capital circulante**
 
-Las partidas que suelen conceptuarse como circulante destacan:
+> La inversión vinculada al ciclo de explotación de la empresa se denomina capital circulante, y determina el volumen 
+> de recursos financieros que un proyecto necesita tener de forma permanente para hacer frente alas exigencias del 
+> proceso productivo.
 
-Activo circulante
+> Período de maduración es el tiempo que transcurre entre la adquisición de las materias primas y el cobro del 
+> producto de las ventas, y determina con otros factores el volumen de fondos necesarios para el capital circulante.
 
-Caja y bancos
-Clientes, deudores y efectos a cobrar
-Existencias de materia prima
-Existencias de productos semielaborados
-Existencias de productos terminados
-Inversiones financieras a corto plazo
-Pasivo circulante
+> También se puede decir que el capital circulante es el activo circulante menos el pasivo circulante.
 
-Proveedores y acreedores
-Efectos a pagar
-Anticipo de clientes
-Préstamos a corto
-Impuestos a pagar
+> Las partidas que suelen conceptuarse como circulante destacan:
+
+>> **2.1. Activo circulante**
+
+>> + Caja y bancos
+>> + Clientes, deudores y efectos a cobrar
+>> + Existencias de materia prima
+>> + Existencias de productos semielaborados
+>> + Existencias de productos terminados
+>> + Inversiones financieras a corto plazo
+
+>> **2.2. Pasivo circulante**
+
+>> + Proveedores y acreedores
+>> + Efectos a pagar
+>> + Anticipo de clientes
+>> + Préstamos a corto
+>> + Impuestos a pagar
+
+
+----------------------------------------
+----------------------------------------
