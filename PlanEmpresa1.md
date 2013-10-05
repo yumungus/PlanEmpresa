@@ -77,20 +77,44 @@ la idea.
  **Población:** Quijorna  // **Provincia:** Madrid // **País:** España.
 
 + **Breve historial profesional de los promotores:**
-#### Perfiles:
-**Siomara Vallejos Holguin :**
-> + **Titulacion:**
-       Desarrollo de Aplicciones web cursado en I.E.S. MARIA DE ZAYAS Y SOTO MAYOR \.
-> + **Experiencia profesional:**
-       2013-2012  Empresa SOFTWAREIM S.A.   programador senior \.
-                    Formaba parte del equipo de desarrollo que se encargaba de los desarrollos evolutivos 
-                    de portales web de empresas de seguro.
 
+ **Belen Malo Ramírez**
+ + **Titulación: **
+ + **Experiencia profesional:**
+ + **Habilidades que favorecen al proyecto:**
 
->Este punto es fundamental de cara a otorgar credibilidad a un proyecto, ya que los inversores quieren saber si el 
->equipo directivo es capaz de llear a cabo el negocio.
+ **Inmaculada Reyes Rodríguez**
+ + **Titulación: **
+   Bachillerato de Ciencias de la Salud y Naturales
+   Grado de Creación Gráfica y Digital en ESDIP
+   Master en Maquetación de Prensa en Ágora 3
+   Master en Diseño Gráfico en CEI
+   Master en Creación Web en CEI
+   Master en en Edición de Video en CEI
+   Grado Superior de Desarrollo de Aplicciones web en I.E.S. MARIA DE ZAYAS Y SOTOMAYOR
 
-> Debe incluirse en el mismo referencias a:
+ + **Experiencia profesional:**
+   Teleoperadora de emisión durante un año y medio
+   Cuidadora de niños de primera y secundaria
+   Profesora de inglés de niños de primera y secundaria
+   Profesora de dibujo de niños de primera y secundaria
+   Ilustradora Freelance
+   Diseñadora Gráfica Freelance
+   Diseñadora Web Freelance
+
+ + **Habilidades que favorecen al proyecto:**
+   Alta creatividad.
+   Buen nivel en idiomas.
+   
+
+ **Siomara Vallejos Holguin :**
+ + **Titulacion: **       
+   Desarrollo de Aplicciones web cursado en I.E.S. MARIA DE ZAYAS Y SOTOMAYOR   
+ + **Experiencia profesional:**     
+   2013-2012  Empresa SOFTWAREIM S.A. : programador senior     
+              Formaba parte del equipo de desarrollo que se encargaba de los desarrollos evolutivos de portales web 
+              de empresas de seguro.
+ + **Habilidades que favorecen al proyecto:**
 
 > + **Perfil de los promotores:** educación, experiencia profesional, éxito en el mundo laboral, etc.
 > + **Experiencia o habilidades de los promotores para llevar a cabo el proyecto:** que capacidades/experiencia tienen 
