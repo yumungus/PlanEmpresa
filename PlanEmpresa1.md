@@ -79,32 +79,32 @@ la idea.
 + **Breve historial profesional de los promotores:**
 
  **Belen Malo Ramírez**
- + **Titulación: **
+ + **Titulación:**
  + **Experiencia profesional:**
  + **Habilidades que favorecen al proyecto:**
 
  **Inmaculada Reyes Rodríguez**
- + **Titulación: **
-   Bachillerato de Ciencias de la Salud y Naturales
-   Grado de Creación Gráfica y Digital en ESDIP
-   Master en Maquetación de Prensa en Ágora 3
-   Master en Diseño Gráfico en CEI
-   Master en Creación Web en CEI
-   Master en en Edición de Video en CEI
-   Grado Superior de Desarrollo de Aplicciones web en I.E.S. MARIA DE ZAYAS Y SOTOMAYOR
+ + **Titulación:**     
+   Bachillerato de Ciencias de la Salud y Naturales  
+   Grado de Creación Gráfica y Digital en ESDIP  
+   Master en Maquetación de Prensa en Ágora 3  
+   Master en Diseño Gráfico en CEI  
+   Master en Creación Web en CEI  
+   Master en en Edición de Video en CEI  
+   Grado Superior de Desarrollo de Aplicciones web en I.E.S. MARIA DE ZAYAS Y SOTOMAYOR  
 
- + **Experiencia profesional:**
-   Teleoperadora de emisión durante un año y medio
-   Cuidadora de niños de primera y secundaria
-   Profesora de inglés de niños de primera y secundaria
-   Profesora de dibujo de niños de primera y secundaria
-   Ilustradora Freelance
-   Diseñadora Gráfica Freelance
-   Diseñadora Web Freelance
+ + **Experiencia profesional:**     
+   Teleoperadora de emisión durante un año y medio   
+   Cuidadora de niños de primera y secundaria    
+   Profesora de inglés de niños de primera y secundaria    
+   Profesora de dibujo de niños de primera y secundaria    
+   Ilustradora Freelance     
+   Diseñadora Gráfica Freelance    
+   Diseñadora Web Freelance   
 
- + **Habilidades que favorecen al proyecto:**
-   Alta creatividad.
-   Buen nivel en idiomas.
+ + **Habilidades que favorecen al proyecto:**    
+   Alta creatividad    
+   Buen nivel en idiomas   
    
 
  **Siomara Vallejos Holguin :**
