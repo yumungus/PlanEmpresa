@@ -201,7 +201,7 @@
 >> Los más comunes son los de los abogados, notarios, registros, etc. ligados a la constitución de la personalidad 
 >> jurídica de la empresa.
 
-**1.4. Inmovilizado financiero**
+>> **1.4. Inmovilizado financiero**
 
 >> Lo constituye fundamentalmente:
 
@@ -209,7 +209,7 @@
 >> + Fianzas y depósitos
 >> + Inversiones financieras en empresas del grupo
 
-** 2. Inversión en capital circulante**
+**2. Inversión en capital circulante**
 
 > La inversión vinculada al ciclo de explotación de la empresa se denomina capital circulante, y determina el volumen 
 > de recursos financieros que un proyecto necesita tener de forma permanente para hacer frente alas exigencias del 
