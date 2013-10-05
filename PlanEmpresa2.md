@@ -1,63 +1,6 @@
 #PLAN DE EMPRESA (parte 2)
 
 
-##**6. PLAN DE MARKETING**
-
-> El plan de marketing tiene como objetivo la fijación de las estrategias comerciales que permitan alcanzar la cifra 
-> de facturación que recogerá el análisis económico-financiero.
-
-> Debe servir para explotar la oportunidad de negocio y las ventajas competitivas asociadas a la misma.
-
-+ **Estrategia de precios**
-
-> Se debe fijar los precios de comercialización del producto o servicio y compararlos con los de la competencia. A 
-> continuación hay que cuantificar el margen bruto y calcular si dicho margen puede soportar los diferentes tipos de 
-> costes y generar un beneficio para la empresa.
-
-> En el caso de que los precios de los productos o servicios sean menores que los de la competencia, esto se debe 
-> explicar en el Plan de Empresa aludiendo a una mayor eficiencia en la producción, menores costes laborales, menores 
-> costes en la distribución etc.
-
-> Si los costes fueran mayores, habría que explicar el sobreprecio en términos de novedad, calidad, garantía, 
-> prestaciones, servicio, etc.
-
-+ **Política de ventas**
-
-> Es necesario describir la composición, forma de contratación y cualificación del equipo de ventas(propios y 
-> representantes), tanto al principio como a medio y largo plazo.
-
-> Más tarde hay que describir la política de márgenes comerciales y medidas de promoción ofrecidas a distribuidores, 
-> representantes y comerciantes, y comparar con lo que hace la competencia. Se han de presentar las ventas estimadas 
-> por cada representante o miembro del equipo de ventas, los incentivos diseñados para diferentes volúmenes y los 
-> costes totales de la actividad de ventas y su porcentaje con respecto a la facturación total estimada.
-
-> Se hará referencia a los períodos de cobros a clientes y otras consideraciones como descuentos, anticipos, 
-> rappels, etc.
-
-+ **Promoción y publicidad**
-
-> El plan de marketing ha de describir las fórmulas que se van a utilizar para atraer a los clientes potenciales. Es 
-> importante elaborar un plan de medios que recoja las medidas promocionales en que se piensa incurrir, tales como 
-> mailings, presentaciones en ferias, artículos y anuncios en revistas especializadas, etc.
-
-+ **Canales de distribución**
-
-> Es importante estudiar cuales serán los canales de distribución a utilizar, la política de descuentos y márgenes 
-> a los mismos, la importancia de los costes de distribución con respecto a los costes de comercialización y las 
-> posibilidades de exportación haciendo referencia a la distribución internacional, transporte, seguros, cobros a 
-> clientes internacionales, etc.
-
-+ **Servicio post-venta y garantía**
-
-> Se debe cuantificar la importancia que para el cliente potencial tiene el contar con tales servicios. Hay que 
-> especificar el tipo de garantía que se ofrece, su duración temporal, quien se encargará del servicio post-venta y 
-> los costes en que se incurre, y compararlos con lo ofertado por la competencia.
-
-
-----------------------------------------
-----------------------------------------
-
-
 ##**7. ORGANIZACIÓN Y PERSONAL**
 
 > Este apartado del Plan de Empresa tiene como objetivo garantizar el correcto funcionamiento de los diferentes 
@@ -375,3 +318,71 @@
 >> **(17) CASH FLOW** 
 >> El cash flow o flujo de caja es la suma del beneficio neto más las amortizaciones, ya que éstas no suponen una 
 >> salida de recursos de la empresa.
+
+
+----------------------------------------
+----------------------------------------
+
+
+##10. financiación prevista
+
+> El propósito de un plan financiero es evaluar el potencial económico de un proyecto empresarial y el de presentar 
+> alternativas viables de financiación para el mismo.
+
+> 1. **Balance**
+
+> El balance es un documento contable que refleja la situación de la empresa en un momento determinado, en la medida 
+> en que dicha situación es expresable en términos monetarios.
+
+> Constituye un resumen o fotografía instantánea de la situación de la empresa, teniendo, por lo tanto, un carácter 
+> estático, frente al sentido dinámico de la cuenta de resultados y el estado de origen y aplicación de fondos.
+
+> El balance se considera como la representación integral de un patrimonio de una empresa en un determinado momento, 
+> es decir, la representación por separado del conjunto de bienes y derechos poseídos por la empresa (activo) y del 
+> conjunto de obligaciones que tiene contraídos frente a los propietarios y frente a terceros (pasivo).
+
+> Por lo tanto, los recursos totales que posee una empresa en un momento determinado se pueden ordenar según su 
+> procedencia u origen (pasivo) y la utilización que se ha hecho de ellos.
+
+> En definitiva, el activo y el pasivo no son más que clasificaciones diferentes de una misma cantidad: los recursos 
+> totales, lo que implica el cumplimiento de la identidad fundamental de la contabilidad: Activo total = Pasivo total
+
+> 2. **Estados de origen y aplicación de fondos**
+
+> El estado de origen y aplicación de fondos es un método para analizar el flujo neto de fondos entre dos momentos 
+> sucesivos. Estos dos momentos coinciden con la fecha de los balances, al principio y al final del período.
+
+> El estado de origen y aplicación de fondos sólo describe movimientos netos y no los movimientos totales de 
+> cada cuenta. El movimiento neto de fondos se obtiene compensando los créditos y débitos de cada cuenta en el 
+> periodo considerado.
+
+> La elaboración de dicho estado se efectuará limitándose a la utilización de la información financiera contenida 
+> en el balance y en la cuenta de resultados.
+
+> La base para el análisis del origen y utilización de recursos durante un período contable está en que:
+
+> + los fondos son proporcionados por terceros (aumento de recursos de terceros), o por los propietarios (aumento 
+> de recursos propios aportados), o por las operaciones, o por la liberalización del dinero utilizado anteriormente 
+> en activos (disminuciones de cuentas de activos)
+
+> + los recursos así obtenidos son utilizados para aumentar lo activos existentes (aumento de las cuentas de activos), 
+> o para reducir deudas (disminución de recursos de terceros), o para pagar dividendos, impuestos u otras obligaciones 
+> contraídas.
+
+
+----------------------------------------
+----------------------------------------
+
+
+##11. VALORACIÓN DEL RIESGO
+
+> En este punto se deben valorar los riegos que existen en la puesta en marcha de un proyecto empresarial o el 
+> lanzamiento de un nuevo producto.
+
+> El Plan de Empresa debe incluir una descripción de los riesgos y de las posibles circunstancias adversas que 
+> afecten a la empresa, al personal, a la aceptación de nuestro producto o servicio por el mercado, a retrasos en 
+> el lanzamiento del producto o servicio, o a la obtención de los recursos financieros necesarios.
+
+> Del mismo modo, la valoración de riesgos debe hacer referencia a factores externos como recesión, aparición de 
+> nuevas tecnologías, reacción de los competidores, cambios en la demanda, etc., y también en las posibles medidas 
+> correctoras que se puedan aplicar.
