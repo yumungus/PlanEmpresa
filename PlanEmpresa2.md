@@ -242,3 +242,136 @@
 
 ----------------------------------------
 ----------------------------------------
+
+
+##9. PREVISIÓN DE CUENTA DE RESULTADOS
+
+> La cuenta de resultados es aquella que recoge las diferencias surgidas en el transcurso de un período contable 
+> entre las corrientes de ingresos y gastos imputables al mismo.
+
+> Resume las operaciones de la empresa durante el período considerado, generalmente un año, indicando los ingresos 
+> por ventas y otras procedencias, el coste de los productos vendidos, todos los gastos en que ha incurrido la empresa 
+> y el resultado económico.
+
+> La cuenta de resultados no sólo recoge el dato numérico del beneficio o la pérdida, sino que desgranando sus 
+> componentes se llega a conocer el por qué de dicho resultado. Así pues, analizando dicha cuenta y su composición 
+> las empresas pueden conocer si la marcha de su explotación es la deseada.
+
+> El análisis de la cuenta de resultados, y de su distribución, permite conocer los resultados generados por la 
+> propia empresa(autofinanciación) en el período. Por otra parte, la obtención de un beneficio o de una pérdida y 
+> dónde se han generado ofrece una información imprescindible para el análisis de la gestión realizada, la evolución 
+> de la situación actual y la previsión sobre el futuro de la empresa.
+
+> Aunque no existe un formato único, la estructura que figura a continuación ofrece las partidas típicas de las 
+> cuentas de resultados de las empresas comerciales e industriales.
+
+> Variación de existencias (1)
+
+> + Ventas brutas (2)
+
+>> - devoluciones
+>> - rebajas
+>> - bonificaciones
+
+> = Ventas netas (3)
+
+>> - coste de las ventas (4)
+
+> = Beneficio bruto de explotación (margen bruto) (5)
+
+>> - gastos de venta (comerciales) (6)
+>> - gastos generales y de administración (7)
+>> - amortizaciones (8)
+
+> = Beneficio neto de explotación (ordinario) (9)
+
+>> + ingresos extraordinarios (10)
+>> - gastos extraordinarios (11)
+
+> = Beneficio antes de intereses e impuestos (BAII) (12)
+
+>> - gastos financieros (13)
+
+> = Beneficio antes de impuestos (BAI) (14)
+
+>> - previsión de impuestos (15)
+
+> = Beneficio neto después de impuestos (16)
+
+>> + amortizaciones
+
+> = Cash Flow (17)
+ 
+------------------- aclaraciones -
+ 
+
+>> (1) VARIACIÓN DE EXISTENCIAS  
+>> Recoge la diferencia entre las existencias iniciales y las finales de productos, materias primas u otros 
+>> aprovisionamientos. Se considera como un ingreso si es positiva, y si es negativa se considera un gasto minorando 
+>>el resultado.
+
+>> (2) VENTAS BRUTAS  
+>> Incluye el total de los ingresos por ventas realizados en el período.
+ 
+>> (3) VENTAS NETAS  
+>> Se obtienen como diferencia entre las ventas brutas y la suma de los descuentos, bonificaciones o rebajas en 
+>> ventas y las devoluciones o ventas anuladas.
+
+>> (4) COSTE DE LAS VENTAS  
+>> Representa el coste de los productos vendidos, es decir, lo que ha costado producir lo que se ha vendido que incluye:
+>> + consumo de materias primas y materiales
+>> + mano de obra directa
+>> + otros gastos de fabricación (amortización, energía, supervisión, etc.)
+
+>> (5) BENEFICIO BRUTO DE EXPLOTACIÓN  
+>> Es la diferencia entre las ventas netas y el coste de las ventas.
+
+>> (6) GASTOS DE VENTA  
+>> Representan los gastos comerciales imputables a las ventas del período. Incluye sueldo de vendedores comisiones de
+>> venta, gastos de envío, publicidad, exposiciones, etc.
+
+>> (7) GASTOS GERNERALES Y DE ADMINISTRACIÓN  
+>> Recoge los gastos derivados de la actividad administrativa que tiene toda empresa. Hay que incluir los sueldos
+>> y gastos de oficina, sueldos de directivos, alquileres, material de oficina, asesoría, gestoría, etc.
+
+>> (8) AMORTIZACIONES  
+>> Es la representación contable de la depreciación monetaria que en el transcurso del tiempo sufren los activos 
+>> inmovilizados que tengan para la empresa una vida útil no ilimitada pero si superior a un período contable.
+
+>> A excepción de los terrenos, que no se amortizan, la mayoría de los activos inmovilizados tienen una vida útil de
+>> duración limitada. Dado que la contabilidad registra inicialmente en el activo el inmovilizado al precio de 
+>> adquisición, parece lógico repartir ese gasto entre cada uno de los períodos contables que constituyen la vida útil.
+
+>> Esta corrección valorativa se considera un gasto del ejercicio aunque no suponga una salida efectiva de recursos 
+>> de la empresa.
+
+>> (9) BENEFICIO NETO DE EXPLOTACIÓN  
+>> Es la diferencia entre el beneficio bruto y los gastos de venta, generales, administrativos y las amortizaciones.
+
+>> (10) INGRESOS EXTRAORDINARIOS  
+>> Incluye cualquier beneficio resultante de operaciones no habituales de la empresa, como las plusvalías por ventas 
+>> de activos inmovilizados etc.
+
+>> (11) GASTOS EXTRAORDINARIOS  
+>> Son gastos no periódicos originados por operaciones no habituales por la empresa, tales como pérdidas o 
+>> depreciaciones del inmovilizado etc.
+
+>> (12) BENEFICIO ANTES DE INTERESES E IMPUESTOS (BAII)
+>> Es la diferencia entre el beneficio neto de explotación y los gastos, menos los ingresos extraordinarios.
+
+>> (13) GASTOS FINANCIEROS  
+>> Son los gastos efectuados por la empresa en comisiones bancarias, comisiones e intereses por descuento de efectos,
+>> intereses de préstamos, en definitiva todos los gastos que tengan una naturaleza financiera.
+
+>> (14) BENEFICIO ANTES DE IMPUESTOS  
+>> Es la diferencia entre el beneficio antes de intereses e impuestos y los gastos financieros.
+
+>> (15) PREVISIÓN DE IMPUESTOS  
+>> Es el importe previsto del Impuesto de Sociedades a pagar por la empresa correspondiente al período considerado.
+
+>> (16) BENEFICIO NETO DESPUÉS DE IMPUESTOS  
+>> Es la diferencia entre el beneficio neto antes de impuestos y la previsión para impuestos.
+
+>> (17) CASH FLOW  
+>> El cash flow o flujo de caja es la suma del beneficio neto más las amortizaciones, ya que éstas no suponen una 
+>> salida de recursos de la empresa.
