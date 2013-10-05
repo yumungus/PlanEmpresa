@@ -329,7 +329,7 @@
 > El propósito de un plan financiero es evaluar el potencial económico de un proyecto empresarial y el de presentar 
 > alternativas viables de financiación para el mismo.
 
-> 1. **Balance**
++ **Balance**
 
 > El balance es un documento contable que refleja la situación de la empresa en un momento determinado, en la medida 
 > en que dicha situación es expresable en términos monetarios.
@@ -347,7 +347,7 @@
 > En definitiva, el activo y el pasivo no son más que clasificaciones diferentes de una misma cantidad: los recursos 
 > totales, lo que implica el cumplimiento de la identidad fundamental de la contabilidad: Activo total = Pasivo total
 
-> 2. **Estados de origen y aplicación de fondos**
++ **Estados de origen y aplicación de fondos**
 
 > El estado de origen y aplicación de fondos es un método para analizar el flujo neto de fondos entre dos momentos 
 > sucesivos. Estos dos momentos coinciden con la fecha de los balances, al principio y al final del período.
