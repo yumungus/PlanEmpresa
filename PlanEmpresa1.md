@@ -103,12 +103,17 @@ la idea.
    Diseñadora Web Freelance   
 
  + **Habilidades que favorecen al proyecto:**    
-   Alta creatividad    
-   Buen nivel en idiomas   
-   
+   Alta creatividad y cierto nivel de perfeccionismo   
+   Buen nivel en idiomas, sobre todo inglés
+   Versatilidad y autosuficiencia para adaptarme a la gran mayoría de situaciones
+   Capacidad de cooperación y sociabilidad considerables
+   Responsable, ordenado y observador con el trabajo, amistadoes y familia
+   Sacrificio de tiempo libre por trabajo si se requiere
+   Respeto hacia los plazos y el trabajo asignado 
+   Actitud no derrochadora
 
  **Siomara Vallejos Holguin :**
- + **Titulacion: **       
+ + **Titulacion:**       
    Desarrollo de Aplicciones web cursado en I.E.S. MARIA DE ZAYAS Y SOTOMAYOR   
  + **Experiencia profesional:**     
    2013-2012  Empresa SOFTWAREIM S.A. : programador senior     
