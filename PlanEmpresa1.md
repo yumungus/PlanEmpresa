@@ -85,32 +85,32 @@ la idea.
 
  **Inmaculada Reyes Rodríguez**
  + **Titulación:**     
-   Bachillerato de Ciencias de la Salud y Naturales  
-   Grado de Creación Gráfica y Digital en ESDIP  
-   Master en Maquetación de Prensa en Ágora 3  
-   Master en Diseño Gráfico en CEI  
-   Master en Creación Web en CEI  
-   Master en en Edición de Video en CEI  
-   Grado Superior de Desarrollo de Aplicciones web en I.E.S. MARIA DE ZAYAS Y SOTOMAYOR  
+     Bachillerato de Ciencias de la Salud y Naturales  
+     Grado de Creación Gráfica y Digital en ESDIP  
+     Master en Maquetación de Prensa en Ágora 3  
+     Master en Diseño Gráfico en CEI  
+     Master en Creación Web en CEI  
+     Master en en Edición de Video en CEI  
+     Grado Superior de Desarrollo de Aplicciones web en I.E.S. MARIA DE ZAYAS Y SOTOMAYOR  
 
  + **Experiencia profesional:**     
-   Teleoperadora de emisión durante un año y medio   
-   Cuidadora de niños de primera y secundaria    
-   Profesora de inglés de niños de primera y secundaria    
-   Profesora de dibujo de niños de primera y secundaria    
-   Ilustradora Freelance     
-   Diseñadora Gráfica Freelance    
-   Diseñadora Web Freelance   
+     Teleoperadora de emisión durante un año y medio   
+     Cuidadora de niños de primera y secundaria    
+     Profesora de inglés de niños de primera y secundaria    
+     Profesora de dibujo de niños de primera y secundaria    
+     Ilustradora Freelance     
+     Diseñadora Gráfica Freelance    
+     Diseñadora Web Freelance   
 
- + **Habilidades que favorecen al proyecto:**    
-   Alta creatividad y cierto nivel de perfeccionismo   
-   Buen nivel en idiomas, sobre todo inglés
-   Versatilidad y autosuficiencia para adaptarme a la gran mayoría de situaciones
-   Capacidad de cooperación y sociabilidad considerables
-   Responsable, ordenado y observador con el trabajo, amistadoes y familia
-   Sacrificio de tiempo libre por trabajo si se requiere
-   Respeto hacia los plazos y el trabajo asignado 
-   Actitud no derrochadora
+ + **Habilidades que favorecen al proyecto:**       
+     Alta creatividad y cierto nivel de perfeccionismo      
+     Buen nivel en idiomas, sobre todo inglés   
+     Versatilidad y autosuficiencia para adaptarme a la gran mayoría de situaciones    
+     Capacidad de cooperación y sociabilidad considerables     
+     Responsable, ordenado y observador con el trabajo, amistadoes y familia    
+     Sacrificio de tiempo libre por trabajo si se requiere    
+     Respeto hacia los plazos y el trabajo asignado     
+     Actitud no derrochadora     
 
  **Siomara Vallejos Holguin :**
  + **Titulacion:**       
