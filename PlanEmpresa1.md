@@ -136,17 +136,25 @@ en las posibilidades que nos ofrece a largo plazo.
 
 ##3. DESCRIPCIÓN DE LOS PRODUCTOS / SERVICIOS 
 
-+ **Identificación de los productos / servicios:**
+###3.1. Identificación de los productos / servicios
 
-> En este punto se deben describir de una forma amplia los productos o servicios a ofrecer.
+Ofrecemos un portal de comunicación que facilite el contacto entre personas de distintas partes del mundo con el
+fín de desarrollar o ampliar sus dotes comunicativas en diferentes idiomas. Para ello dispondrán de un sistema
+de multiconferencia y de multichat integrado en nuestra plataforma. 
 
-+ **Descripción de las características técnicas de los productos o servicios:**
+###3.2. Descripción de las características técnicas de los productos o servicios
+
+Desarrollamos una página web donde el usuario podrá visualizar los servicios que se ofrecen a través de la interfaz
+gráfica creada usando lenguaje html, css y javascript. La página incorpora un diseño responsivo el cual se adaptará
+a los diferentes dispositivos existentes (ordenador en sus diferentes resoluciones, tableta gráfica, móvil...)
+
+**¡¡¡¡¡¡¡¡¡¡¡NO TERMINADO!!!!!!!!!!!**
 
 > Este apartado debe contener una explicación detallada del concepto básico y de las características técnicas de los 
 > productos o servicios. Debe contener una indicación expresa de las cualidades más significativas , de las ventajas que 
 > aportan , de los soportes tecnológicos donde se apoyan, …
 
-+ **Elementos innovadores que incorporan, caracteres diferenciales respecto a los de la competencia:**
+###3.3 .Elementos innovadores que incorporan, caracteres diferenciales respecto a los de la competencia
 
 > Se debe recoger las especificaciones de los elementos innovadores que incorporan los productos o servicios que se van
 > a lanzar, explicando claramente la diferenciación con la oferta actual de los del resto de competidores existentes en 
