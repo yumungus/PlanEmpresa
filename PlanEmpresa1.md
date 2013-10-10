@@ -89,13 +89,14 @@ la idea.
  + Certificación en Atlas.
  + Certificación en SIRE.
  + Certificación en AMADEUS avanzado.
+ + Certificación en IMS.
  + Grado Superior de Desarrollo de Aplicciones web en I.E.S. MARIA DE ZAYAS Y SOTOMAYOR.
  + 
  + **Experiencia profesional:**
- + Elaboración del Plan de viabilidad turística de Villanueva de la Cañada.
- + Ayudante de producción en la empresa Reberma.
+ + Elaboración del Plan de Viabilidad Turística para el Aytmo. de Villanueva de la Cañada.
+ + Ayudante de producción en la empresa Reberma S.L.
  + Técnico de cotizaciones en Tourmundial(mayorista).
- + Técnico de ventas en Viajes El Corte Inglés.
+ + Técnico de ventas en Viajes El Corte Inglés S.A.
  + 
  + **Habilidades que favorecen al proyecto:**
  + Responsabilidad,versatilidad y don de gentes.
