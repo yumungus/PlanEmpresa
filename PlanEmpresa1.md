@@ -83,8 +83,27 @@ la idea.
 
 ####**Belen Malo Ramírez**
  + **Titulación:**
+ + Diplomada en Turismo por la Universidad Alfonso X El Sabio.
+ + Mba Dirección de Empresas por la Universidad Antonio de Nebrija.
+ + Certificación en CRM.
+ + Certificación en Atlas.
+ + Certificación en SIRE.
+ + Certificación en AMADEUS avanzado.
+ + Grado Superior de Desarrollo de Aplicciones web en I.E.S. MARIA DE ZAYAS Y SOTOMAYOR.
+ + 
  + **Experiencia profesional:**
+ + Elaboración del Plan de viabilidad turística de Villanueva de la Cañada.
+ + Ayudante de producción en la empresa Reberma.
+ + Técnico de cotizaciones en Tourmundial(mayorista).
+ + Técnico de ventas en Viajes El Corte Inglés.
+ + 
  + **Habilidades que favorecen al proyecto:**
+ + Responsabilidad,versatilidad y don de gentes.
+ + Alta tolerancia a la frustración.
+ + Gran capacidad de sacrificio.
+ + Dotes de mando y gran capacidad de gestión.
+ + Persistente y capacidad de enfrentamiento ante las adversidades.
+ + Carisma.
 
 ####**Inmaculada Reyes Rodríguez**
  + **Titulación:**     
