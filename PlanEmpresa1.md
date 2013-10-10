@@ -83,60 +83,61 @@ la idea.
 
 ####**Belen Malo Ramírez**
  + **Titulación:**
- + Diplomada en Turismo por la Universidad Alfonso X El Sabio.
- + Mba Dirección de Empresas por la Universidad Antonio de Nebrija.
- + Certificación en CRM.
- + Certificación en Atlas.
- + Certificación en SIRE.
- + Certificación en AMADEUS avanzado.
- + Certificación en IMS.
- + Grado Superior de Desarrollo de Aplicciones web en I.E.S. MARIA DE ZAYAS Y SOTOMAYOR.
- + 
+       + Diplomada en Turismo por la Universidad Alfonso X El Sabio.
+       + Mba Dirección de Empresas por la Universidad Antonio de Nebrija.
+       + Certificación en CRM.
+       + Certificación en Atlas.
+       + Certificación en SIRE.
+       + Certificación en AMADEUS avanzado.
+       + Certificación en IMS.
+       + Grado Superior de Desarrollo de Aplicciones web en I.E.S. MARIA DE ZAYAS Y SOTOMAYOR.
+  
  + **Experiencia profesional:**
- + Elaboración del Plan de Viabilidad Turística para el Aytmo. de Villanueva de la Cañada.
- + Ayudante de producción en la empresa Reberma S.L.
- + Técnico de cotizaciones en Tourmundial(mayorista).
- + Técnico de ventas en Viajes El Corte Inglés S.A.
- + 
+       + Elaboración del Plan de Viabilidad Turística para el Aytmo. de Villanueva de la Cañada.
+       + Ayudante de producción en la empresa Reberma S.L.
+       + Técnico de cotizaciones en Tourmundial(mayorista).
+       + Técnico de ventas en Viajes El Corte Inglés S.A.
+  
  + **Habilidades que favorecen al proyecto:**
- + Responsabilidad,versatilidad y don de gentes.
- + Alta tolerancia a la frustración.
- + Gran capacidad de sacrificio.
- + Dotes de mando y gran capacidad de gestión.
- + Persistente y capacidad de enfrentamiento ante las adversidades.
- + Carisma.
+      + Responsabilidad, versatilidad y don de gentes.
+      + Alta tolerancia a la frustración.
+      + Gran capacidad de sacrificio.
+      + Dotes de mando y gran capacidad de gestión.
+      + Persistente y capacidad de enfrentamiento ante las adversidades.
+      + Carisma.
 
 ####**Inmaculada Reyes Rodríguez**
  + **Titulación:**     
-     Bachillerato de Ciencias de la Salud y Naturales  
-     Grado de Creación Gráfica y Digital en ESDIP  
-     Master en Maquetación de Prensa en Ágora 3  
-     Master en Diseño Gráfico en CEI  
-     Master en Creación Web en CEI  
-     Master en en Edición de Video en CEI  
-     Grado Superior de Desarrollo de Aplicciones web en I.E.S. MARIA DE ZAYAS Y SOTOMAYOR  
+     + Bachillerato de Ciencias de la Salud y Naturales  
+     + Grado de Creación Gráfica y Digital en ESDIP  
+     + Master en Maquetación de Prensa en Ágora 3  
+     + Master en Diseño Gráfico en CEI  
+     + Master en Creación Web en CEI  
+     + Master en en Edición de Video en CEI  
+     + Grado Superior de Desarrollo de Aplicciones web en I.E.S. MARIA DE ZAYAS Y SOTOMAYOR  
 
  + **Experiencia profesional:**     
-     Teleoperadora de emisión durante un año y medio   
-     Cuidadora de niños de primera y secundaria    
-     Profesora de inglés de niños de primera y secundaria    
-     Profesora de dibujo de niños de primera y secundaria    
-     Ilustradora Freelance     
-     Diseñadora Gráfica Freelance    
-     Diseñadora Web Freelance   
+     + Teleoperadora de emisión durante un año y medio   
+     + Cuidadora de niños de primera y secundaria    
+     + Profesora de inglés de niños de primera y secundaria    
+     + Profesora de dibujo de niños de primera y secundaria    
+     + Ilustradora Freelance     
+     + Diseñadora Gráfica Freelance    
+     + Diseñadora Web Freelance   
 
  + **Habilidades que favorecen al proyecto:**       
-     Alta creatividad y cierto nivel de perfeccionismo      
-     Buen nivel en idiomas, sobre todo inglés   
-     Versatilidad y autosuficiencia para adaptarme a la gran mayoría de situaciones    
-     Capacidad de cooperación y sociabilidad considerables     
-     Responsable, ordenado y observador con el trabajo, amistadoes y familia    
-     Sacrificio de tiempo libre por trabajo si se requiere    
-     Respeto hacia los plazos y el trabajo asignado     
-     Actitud no derrochadora     
+     + Alta creatividad y cierto nivel de perfeccionismo      
+     + Buen nivel en idiomas, sobre todo inglés   
+     + Versatilidad y autosuficiencia para adaptarme a la gran mayoría de situaciones    
+     + Capacidad de cooperación y sociabilidad considerables     
+     + Responsable, ordenado y observador con el trabajo, amistadoes y familia    
+     + Sacrificio de tiempo libre por trabajo si se requiere    
+     + Respeto hacia los plazos y el trabajo asignado     
+     + Actitud no derrochadora 
+     
 ####**Siomara Vallejos Holguin :**
  + **Titulacion:**       
-   Desarrollo de Aplicciones web cursado en I.E.S. MARIA DE ZAYAS Y SOTOMAYOR   
+    Desarrollo de Aplicciones web cursado en I.E.S. MARIA DE ZAYAS Y SOTOMAYOR   
  + **Experiencia profesional:**     
    2013-2012  Empresa SOFTWAREIM S.A. : programador senior     
               Formaba parte del equipo de desarrollo que se encargaba de los desarrollos evolutivos de portales web 
