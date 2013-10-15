@@ -174,7 +174,12 @@ Para que el usuario pueda beneficiarse de todos nuestros servicios de forma inte
 facilitándonos una serie de datos muy básicos (algunos de manera opcional) para que se pueda generar su perfil 
 el cual servirá para que otros usuarios lo utilicen como referencia a la hora de elegir sus contactos. 
 
-Una vez elegido al speaker con el que deseamos contactar, se le envía una peticion solicitando su aceptacion ...
+Una vez elegido al 'speaker' con el que deseamos contactar, se le envía una petición solicitando su aceptación. 
+A continuación ambos 'speakers' contactarán (eligiendo la modalidad que prefieran) para practicar los dos idiomas.
+
+Así mismo, los 'speakers' dispondrán de un apartado donde podrán compartir sus experiencias tras haber visitado
+países extranjeros. 
+
 
 
 
