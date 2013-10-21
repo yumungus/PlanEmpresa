@@ -163,6 +163,7 @@ Ofrecemos un portal de comunicación que facilite el contacto entre personas de 
 fín de desarrollar o ampliar sus dotes comunicativas en diferentes idiomas. Para ello dispondrán de un sistema
 de multiconferencia y de multichat integrado en nuestra plataforma. 
 
+
 ###3.2. Descripción de las características técnicas de los productos o servicios
 
 Desarrollamos una página web donde el usuario podrá visualizar los servicios que se ofrecen a través de la interfaz
@@ -178,20 +179,10 @@ Una vez elegido al 'speaker' con el que deseamos contactar, se le envía una pet
 A continuación ambos 'speakers' contactarán (eligiendo la modalidad que prefieran) para practicar los dos idiomas.
 
 Así mismo, los 'speakers' dispondrán de un apartado donde podrán compartir sus experiencias tras haber visitado
-países extranjeros. 
+países extranjeros. Facilitaremos la posibilidad de que los usuarios suban sus fotografías a galerías
+específicamente diseñadas para este fín las cuales compartirán con todos los usuarios de la página o solo con sus
+contactos.
 
-
-
-
-
-
-**¡¡¡¡¡¡¡¡¡¡¡NO TERMINADO!!!!!!!!!!!**
-
-
-
-> Este apartado debe contener una explicación detallada del concepto básico y de las características técnicas de los 
-> productos o servicios. Debe contener una indicación expresa de las cualidades más significativas , de las ventajas que 
-> aportan , de los soportes tecnológicos donde se apoyan, …
 
 ###3.3 .Elementos innovadores que incorporan, caracteres diferenciales respecto a los de la competencia
 
