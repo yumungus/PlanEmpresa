@@ -14,8 +14,11 @@ Majadahonda, Madrid.
 
 ###1.4. **Tipo de sociedad:**
 
-> Se debe indicar el régimen de constitución de la empresa. Si ésta no estuviera constituida, se haría referencia a la 
-> opción elegida por los promotores.
+La empresa estará formada por 3 socios accionistas que participan de forma alícuota y son miembros del consejo de administración.
+El capital aportado por cada uno de los socios será 1000 euros avalado con garantías reales por cada socio.
+En los estatutos se fija la no entrada de otros socios sin el consentimiento del 100% del accionariado.
+En caso de venta de una de las partes , tienen derecho preferencial de compra el resto de los socios de Yakety Yak.
+La forma jurídica es Sociedad Limitada.
 
 ###1.5. **Explicación breve de la actividad a desarrollar:**
 
@@ -48,8 +51,7 @@ la idea.
 
 ###1.7. **Cuantificación de la inversión necesaria y su financiación:**
 
-> En este apartado se debe recoger, de forma resumida, la inversión que se tiene previsto acometer, así como la
-> forma de financiación prevista para las inversiones descritas.
+
 
 > + **Inversión**	………………….Euros.
 > + **Financiación propia**	………………….Euros.
@@ -161,7 +163,19 @@ en las posibilidades que nos ofrece a largo plazo.
 
 Ofrecemos un portal de comunicación que facilite el contacto entre personas de distintas partes del mundo con el
 fín de desarrollar o ampliar sus dotes comunicativas en diferentes idiomas. Para ello dispondrán de un sistema
-de multiconferencia y de multichat integrado en nuestra plataforma. 
+de multiconferencia y de multichat integrado en nuestra plataforma. Así mismo , ofrecemos la posibilidad a nuestros usuarios de planificar sus viajes contando para ello con un medio de contacto, a través de nuestra web, con una persona nativa del destino que queremos visitar.
+Por todo ello, ofrecedmos un producto que reune las siguientes características:
+1. Multi-producto (práctica de idiomas + planificación de viajes).
+2. Es un productos que satisface la demanda del mercado.
+3. Producto diferenciado de los posibles competidores que podamos tener.
+4. Producto que se basa en acercar a personas que habland distintos idiomas pero que tienen perfiles muy semejantes.
+5. Producto con un mayort valor percibido gracias a los atributos añadidos.
+
+
+Nuestra cartera de productos se compone, por lo tanto de:
+1. Multichat y multiconferencia para facilitar la comunicación entre nuestros usuarios con el fin de practicar un idiomna.
+2. Multichat y multiconferencia para facilitar la comunicación entre nuestros usuarios con el fin de organizar un viaje.
+3. Galería de imágenes donde podrán acceder para conocer más detalles sobre el lugar que están interesados, ya sea para viajar o para conocer más a fondo.
 
 
 ###3.2. Descripción de las características técnicas de los productos o servicios
@@ -169,7 +183,7 @@ de multiconferencia y de multichat integrado en nuestra plataforma.
 Desarrollamos una página web donde el usuario podrá visualizar los servicios que se ofrecen a través de la interfaz
 gráfica creada usando los lenguajes de programación html, css, php y javascript. La página incorpora un diseño 
 responsivo el cual se adaptará a los diferentes dispositivos existentes (ordenador en sus diferentes resoluciones, 
-tableta gráfica, móvil...) para que los usuarios puedan acceder desde donde quieran y cuandon quieran. 
+tableta gráfica, móvil...) para que los usuarios puedan acceder desde donde quieran y cuando quieran. 
 
 Para que el usuario pueda beneficiarse de todos nuestros servicios de forma integral primero deberá registrarse 
 facilitándonos una serie de datos muy básicos (algunos de manera opcional) para que se pueda generar su perfil 
@@ -186,9 +200,16 @@ contactos.
 
 ###3.3 .Elementos innovadores que incorporan, caracteres diferenciales respecto a los de la competencia
 
-> Se debe recoger las especificaciones de los elementos innovadores que incorporan los productos o servicios que se van
-> a lanzar, explicando claramente la diferenciación con la oferta actual de los del resto de competidores existentes en 
-> el mercado.
+La globalización cada vez está más a la orden del día. Debido a la actual crisis mundial disminuye la posibilidad de viajar para muchas personas. Así mismo, existe un nicho de mercado que busca ampliar su conocimiento de idiomas y que además utilizan asiduamente el ordenador ya sea en sus hogares, puestos de trabajo o locales especializados para ello. 
+
+Gran parte de la población es consumidora habitual de redes sociales. Es aquí donde encontramos nuestra oportunidad de negocio. Nuestra primera estrategia diferenciadora con la competencia se basa en ser los primeros en lanzar un producto de estas características en la red. Cierto es que existen plataformas para que la gente contacte con personas de otras partes del mundo pero ninguna de ellas reune aún las 3 características principales que venimos comentando.
+1. Búsqueda por perfil de otra persona semejante a nosotros con el fin de practicar su idioma nativo.
+2. Búsqueda del speaker por lugar de residencia para que nos ayude a planificar nuestro próximo viaje.
+3. Acceso a la galería de imágenes para poder ver instantáneas reales de los lugares que nos interesan hechas por personas como nosotros.
+
+
+Pretendemos ser un referente de redes socialiales para la práctica de idiomas y planificación de viajes. Por ello, trabajaremos para conseguir la máxima satisfación de nuestros usuarios y forjarnos de este modo una imagen de marca.
+
 
 
 ----------------------------------------
@@ -197,23 +218,24 @@ contactos.
 
 ##4. PLAN DE PRODUCCIÓN
 
-> Tiene como objetivo hacer constar todos los aspectos técnicos y organizativos que conciernen a la elaboración de los 
-> productos o a la prestación de servicios recogidos en el Plan de Empresa.
 
-+ **Descripción técnica:**
+**Descripción técnica:**
 
-> Este apartado debe incluir, en el caso de que la actividad esté basada en el desarrollo, producción y 
-> comercialización de un producto las dos primeras fases citadas: el desarrollo y producción. Si es un servicio, al no 
-> existir proceso productivo como tal, se hablará de descripción técnica limitándose a realizar una descripción detallada 
-> de los procedimientos y las necesidades técnicas en las que incurrimos a la hora de prestar el servicio concreto.
+La primera fase de producción consiste en la cración de nuestra plataforma web. Para ello nos dividiremos las tareas del siguiente modo:
 
-> En el caso de desarrollo y producción, se debe comenzar considerando la duración de los trabajos de investigación y 
-> desarrollo que llevan a configurar totalmente el producto y las necesidades de inversión en equipo humano y de 
-> laboratorio, muestras, prototipos, etc. , necesarios para desarrollar el producto final.
+1. Inma será la encargada del diseños de cada una de las partes de dicha plataforma, por ejemplo, se encargará de la elección del logotipo, color corporativo, tipografía y demás aspectos relacionados con el diseño.
+2. Siomara se centrará en gestionar la parte relacionada con las bases de datos, tales como, almacenamiento de los datos de usuario, organización de la galería de images...
+3. Belén será lña encargada de la parte de desarrollo haciendo especial hincapie en la autenticación de usuarios, integración de sistemas de multiconferencia y multichat y demás temas relacionados.
 
-> Por lo tanto, se describirán aspectos como la asignación de funciones en el proceso de desarrollo, los riesgos y 
-> dificultades inherentes al proceso, posibilidad de mejoras a corto y medio plazo del producto o en desarrollo de 
-> nuevos productos sinérgicos, los costes del proceso y los derechos de propiedad derivados del producto.
+Una vez finalizada la plataforma debemos conseguir a nuestros speaker, es decir, personas que residan en diferentes lugares del mundo y que tengan interés en mostrar su ciudad desde su punto de vista al resto de la gente o bien personas interesadas en mantener conversaciones en 2 idiomas, el suyo y el del otro speaker, con el fin de aprender el idioma del otro y enseñar el suyo. Para poder lograr un gran número de speakers crearemos un grupo en distintas redes sociales lanzando diferentes mensajes para atraer al mayor número de personas posibles a nuestra web. Los mensajes publicados pueden ser del tipo:
+
+
+"Estamos seleccionando amigos para que sean speakers de Yakety Yak en los diferentes países y estados del mundo".
+"Si quieres ser speaker de Yakety Yak mándanos país y ciudad donde vives, estudios, aficiones y alguna foto tuya.
+
+Otro posible mensaje para atraer usuarios:
+
+" Buenos días ¿A dónde viajas hoy? ¿No sería genial conocer a gente que viva allí? Si formas parte de nuestra comunidad Yakety Yak, es posible."
 
 + **Descripción del proceso productivo:**
 
