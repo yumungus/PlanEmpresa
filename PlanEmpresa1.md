@@ -51,11 +51,23 @@ la idea.
 
 ###1.7. **Cuantificación de la inversión necesaria y su financiación:**
 
+Calcularemos la inversión inicial teniendo en cuenta los gastos fijos mensuales que vamos a tener resultantes de la suma de los siguientes conceptos:
+1. Registro del dominio.
+2. Hospedaje web.
 
 
-> + **Inversión**	………………….Euros.
-> + **Financiación propia**	………………….Euros.
-> + **Financiación ajena**	………………….Euros.
+Esto supone un coste mensual de 50 euros. Anualmente supondrá un coste de 600 euros por lo que cada socia aportartá 200 euros iniciales adicionales a los 1000 aportados en la constitución de la sociedad. 
+
+
+Ya que se trata de una empresa online y cada una de las socias trabajará inicialmente en su domicilio con su propio material (ordenador, impresora...) la inversión inicial es muy reducida. A medida que nuestra plataforma vaya ganando adeptos se irán realizando inversiones para extender y diversificar la oferta.
+
+
+
+
+
+> + **Inversión** 600.Euros.
+> + **Financiación propia**	600.Euros.
+
 
 
 ----------------------------------------
