@@ -251,29 +251,28 @@ Otro posible mensaje para atraer usuarios:
 
 + **Descripción del proceso productivo:**
 
-> Se debe prestar atención preferente a los siguientes aspectos:
+Al tratarse nuevamente de un negocio online tendremos que tener en cuenta dónde vamos a hospedar nuestra web. Las opciones que barajams en un inicio fueron:
 
-> + Localización geográfica de las instalaciones, ventajas y desventajas de la opción elegida en términos de mano de 
-> obra cualificada, coste de la misma, incentivos a la ubicación, normativa medioambiental, proximidad a las materias 
-> primas, accesibilidad de las instalaciones, etc.
+1. Servidores gratuitos.
+2. Servidores con un bajo coste por el hospedaje.
+3. Hospedaje web profesional y de alta calidad.
 
-> + Edificios y terrenos necesarios, posibilidades de expansión, régimen de adquisición, gastos de mantenimiento, 
-> diseño de la planta y coste estimado de las instalaciones.
 
-> + Equipos necesarios para la fabricación de los productos o la venta de los servicios, características, modelos, 
-> fórmulas de adquisición, capacidad de producción, coste estimado, calendario de las adquisiciones y duración de los
-> equipos productivos.
+Tras analizar estas opciones nos decantamos por la última ya que a pesar de su coste ofrece numerosas ventajas respecto a las 2 otras opciones.
+Los servidores gratuitos presentan numerosos inconvenientes que generan desconfianza en los usuarios de nuestro sitio web.  Un ejemplo sería el tipo de URL que ofrecen, generalmente larga y difícil de memorizar. Así mismo, no contaríamos con el servicio técnico 24 horas tan necesario en este tipo de negocios. Un segundo marca la diferencia. Si un usuario trata de acceder a nuestro sitio web y encuentra dificultades rápidamente redirigirá su búsqueda perdiendo, de esta manera,a un posible cliente potencial.
 
-> + Descripción detallada del proceso productivo, desde la recepción de las materias primas hasta el almacenaje y 
-> expedición de los productos. Se hará una comparación con otras empresas del sector que serán presumiblemente 
-> competencia directa, resaltando las ventajas de la nueva inversión.
+En este punto cabe aclarar que a pesar de no cobrar a nuestros usuarios por los servicios prestados , el tratamiento que les daremos es de CLIENTES, ya que gracias a ellos podremos optar a utilizar nuestra web como plataforma para diferentes campañas publicitarias.   Esa será la fuente de nuestros ingresos y para ello necesitamos el mayor número de visitas.
 
-> + Estrategia del proceso productivo, decisiones de subcontratación, definición de los subcontratados con su 
-> cualificación y coste, descripción del plan de producción en términos de volumen, coste, mano de obra, materias 
-> primas, gestión de existencias etc.
+La segunda opción presenta también serios inconvenientes, a pesar de ser servicios de pago el bajo coste que suponen implica que independientemente de las promesas que nos hagan en cuanto a servicio técnico y rapidez de actuación, rara vez puedan cumplirlo debido a la falta de solidez en sus estructuras.
 
-> + Descripción de los procesos del control de calidad, control de inventarios y procedimientos de inspección que 
-> garanticen mínimos costes y eviten problemas de insatisfacción en los clientes.
+Por todo ello nos decantamos por un servicio de pago para hospedar nuestro sitio web.
+
+
+
+
+
+
+
 
 
 ----------------------------------------
