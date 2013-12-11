@@ -120,10 +120,10 @@ Ya que se trata de una empresa online y cada una de las socias trabajará inicia
      + Grado Superior de Desarrollo de Aplicciones web en I.E.S. MARIA DE ZAYAS Y SOTOMAYOR  
 
  + **Experiencia profesional:**     
-     + Teleoperadora de emisión durante un año y medio   
-     + Cuidadora de niños de primera y secundaria    
-     + Profesora de inglés de niños de primera y secundaria    
-     + Profesora de dibujo de niños de primera y secundaria    
+     + Teleoperadora de emisión   
+     + Cuidadora de niños de primaria     
+     + Profesora de inglés de niños de primaria     
+     + Profesora de dibujo de niños de primaria    
      + Ilustradora Freelance     
      + Diseñadora Gráfica Freelance    
      + Diseñadora Web Freelance   
@@ -133,18 +133,17 @@ Ya que se trata de una empresa online y cada una de las socias trabajará inicia
      + Buen nivel en idiomas, sobre todo inglés   
      + Versatilidad y autosuficiencia para adaptarme a la gran mayoría de situaciones    
      + Capacidad de cooperación y sociabilidad considerables     
-     + Responsable, ordenado y observador con el trabajo, amistadoes y familia    
+     + Responsable, ordenado y observador con el trabajo, amistades y familia    
      + Sacrificio de tiempo libre por trabajo si se requiere    
      + Respeto hacia los plazos y el trabajo asignado     
      + Actitud no derrochadora 
      
 ####**Siomara Vallejos Holguin :**
  + **Titulacion:**       
-    Desarrollo de Aplicciones web cursado en I.E.S. MARIA DE ZAYAS Y SOTOMAYOR   
+     + Desarrollo de Aplicciones web cursado en I.E.S. MARIA DE ZAYAS Y SOTOMAYOR   
  + **Experiencia profesional:**     
-   2013-2012  Empresa SOFTWAREIM S.A. : programador senior     
-              Formaba parte del equipo de desarrollo que se encargaba de los desarrollos evolutivos de portales web 
-              de empresas de seguro.
+     + Empresa SOFTWAREIM S.A. : programador senior     
+       Parte del equipo de desarrollo encargado de evolución de portales web de empresas de forma segura.
  + **Habilidades que favorecen al proyecto:**
 
 
