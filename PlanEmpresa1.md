@@ -31,12 +31,11 @@ información de residentes del país que quieren visitar.
 El motivo por el que hemos elegido esta idea en detrimento de otras es debido a:
 * La necesidad no demorable de que los españoles hablen inglés.
 * Una vez demostrado que el método que se viene impartiendo tanto en las academias como en los centros de enseñanza
-españoles no es válido. Por ello, proponemos una nueva alternativa (llevada a cabo con éxito en muchos países) 
-aprender hablando con nativos.
+españoles no es válido, proponemos una nueva alternativa (llevada a cabo con éxito en muchos países) aprender hablando con nativos.
 * No solo partimos de la motivación ya comentada sino que además ofrecemos la posibilidad de interactuar con
 personas de todo el mundo facilitándonos el conocimiento de su cultura de primera mano. 
-* La inversión principal de este proyecto es el esfuerzo, el trabajo y el tiempo pasando el aspecto económico a 
-un segundo plano ya que en un primer momento no se necesitarán bienes materiales tales como un local de trabajo, 
+* La inversión principal de este proyecto es el esfuerzo, el trabajo y el tiempo, pasando el aspecto económico a 
+un segundo plano, ya que en un primer momento no se necesitarán bienes materiales tales como un local de trabajo, 
 material de oficina, etc.
 
 ###1.6. **Nº de trabajadores previstos**
