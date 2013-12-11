@@ -14,11 +14,11 @@ Majadahonda, Madrid.
 
 ###1.4. **Tipo de sociedad:**
 
-La empresa estará formada por 3 socios accionistas que participan de forma alícuota y son miembros del consejo de administración.
-El capital aportado por cada uno de los socios será 1000 euros avalado con garantías reales por cada socio.
-En los estatutos se fija la no entrada de otros socios sin el consentimiento del 100% del accionariado.
-En caso de venta de una de las partes , tienen derecho preferencial de compra el resto de los socios de Yakety Yak.
-La forma jurídica es Sociedad Limitada.
+La empresa estará formada por 3 socios accionistas que participan de forma alícuota y son miembros del consejo de administración.  
+El capital aportado por cada uno de los socios será 1000 euros avalado con garantías reales por cada socio.  
+En los estatutos se fija la no entrada de otros socios sin el consentimiento del 100% del accionariado.  
+En caso de venta de una de las partes, tienen derecho preferencial de compra el resto de los socios de Yakety Yak.  
+La forma jurídica es **Sociedad Limitada**.
 
 ###1.5. **Explicación breve de la actividad a desarrollar:**
 
