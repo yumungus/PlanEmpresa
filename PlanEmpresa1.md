@@ -215,50 +215,37 @@ Pretendemos ser un referente de redes socialiales para la práctica de idiomas y
 
 ##4. PLAN DE PRODUCCIÓN
 
+###**4.1. Descripción técnica:**
 
-**Descripción técnica:**
+La primera fase de producción consiste en la creación de nuestra plataforma web. Para ello nos dividiremos las tareas del siguiente modo:
 
-La primera fase de producción consiste en la cración de nuestra plataforma web. Para ello nos dividiremos las tareas del siguiente modo:
+1. **Inma** será la encargada del diseño de cada una de las partes de dicha plataforma, por ejemplo, se encargará de la elección del logotipo, color corporativo, tipografía y demás aspectos relacionados con el diseño.
+2. **Siomara** se centrará en gestionar la parte relacionada con las bases de datos, tales como, almacenamiento de los datos de usuario, organización de la galería de imagenes...
+3. **Belén** será la encargada de la parte de desarrollo, haciendo especial hincapié en la autenticación de usuarios, integración de sistemas de multiconferencia y multichat y demás temas relacionados.
 
-1. Inma será la encargada del diseños de cada una de las partes de dicha plataforma, por ejemplo, se encargará de la elección del logotipo, color corporativo, tipografía y demás aspectos relacionados con el diseño.
-2. Siomara se centrará en gestionar la parte relacionada con las bases de datos, tales como, almacenamiento de los datos de usuario, organización de la galería de images...
-3. Belén será lña encargada de la parte de desarrollo haciendo especial hincapie en la autenticación de usuarios, integración de sistemas de multiconferencia y multichat y demás temas relacionados.
+Una vez finalizada la plataforma, debemos conseguir a nuestros **speakers**, es decir, personas que residan en diferentes lugares del mundo y que tengan interés en mostrar su ciudad desde su punto de vista al resto de la gente o bien personas interesadas en mantener conversaciones en 2 idiomas, el suyo y el del otro speaker, con el fin de aprender el idioma del otro y enseñar el suyo. Para poder lograr un gran número de speakers crearemos un grupo en distintas redes sociales lanzando diferentes mensajes para atraer al mayor número de personas posibles a nuestra web. Los mensajes publicados pueden ser del tipo:
 
-Una vez finalizada la plataforma debemos conseguir a nuestros speaker, es decir, personas que residan en diferentes lugares del mundo y que tengan interés en mostrar su ciudad desde su punto de vista al resto de la gente o bien personas interesadas en mantener conversaciones en 2 idiomas, el suyo y el del otro speaker, con el fin de aprender el idioma del otro y enseñar el suyo. Para poder lograr un gran número de speakers crearemos un grupo en distintas redes sociales lanzando diferentes mensajes para atraer al mayor número de personas posibles a nuestra web. Los mensajes publicados pueden ser del tipo:
++ "Estamos seleccionando amigos para que sean speakers de Yakety Yak en los diferentes países y estados del mundo".
++ "Si quieres ser speaker de Yakety Yak mándanos país y ciudad donde vives, estudios, aficiones y alguna foto tuya".
++ "Buenos días ¿A dónde viajas hoy? ¿No sería genial conocer a gente que viva allí? Si formas parte de nuestra comunidad Yakety Yak, es posible."
 
+###**Descripción del proceso productivo:**
 
-"Estamos seleccionando amigos para que sean speakers de Yakety Yak en los diferentes países y estados del mundo".
-"Si quieres ser speaker de Yakety Yak mándanos país y ciudad donde vives, estudios, aficiones y alguna foto tuya.
+Al tratarse de un negocio online tendremos que tener en cuenta dónde vamos a hospedar nuestra web. Las opciones que barajamos en un inicio fueron:
 
-Otro posible mensaje para atraer usuarios:
-
-" Buenos días ¿A dónde viajas hoy? ¿No sería genial conocer a gente que viva allí? Si formas parte de nuestra comunidad Yakety Yak, es posible."
-
-+ **Descripción del proceso productivo:**
-
-Al tratarse nuevamente de un negocio online tendremos que tener en cuenta dónde vamos a hospedar nuestra web. Las opciones que barajams en un inicio fueron:
-
-1. Servidores gratuitos.
-2. Servidores con un bajo coste por el hospedaje.
-3. Hospedaje web profesional y de alta calidad.
-
+1. Servidores gratuitos.  
+2. Servidores con un bajo coste para el hospedaje.  
+3. Hospedaje web profesional y de alta calidad.  
 
 Tras analizar estas opciones nos decantamos por la última ya que a pesar de su coste ofrece numerosas ventajas respecto a las 2 otras opciones.
-Los servidores gratuitos presentan numerosos inconvenientes que generan desconfianza en los usuarios de nuestro sitio web.  Un ejemplo sería el tipo de URL que ofrecen, generalmente larga y difícil de memorizar. Así mismo, no contaríamos con el servicio técnico 24 horas tan necesario en este tipo de negocios. Un segundo marca la diferencia. Si un usuario trata de acceder a nuestro sitio web y encuentra dificultades rápidamente redirigirá su búsqueda perdiendo, de esta manera,a un posible cliente potencial.
 
-En este punto cabe aclarar que a pesar de no cobrar a nuestros usuarios por los servicios prestados , el tratamiento que les daremos es de CLIENTES, ya que gracias a ellos podremos optar a utilizar nuestra web como plataforma para diferentes campañas publicitarias.   Esa será la fuente de nuestros ingresos y para ello necesitamos el mayor número de visitas.
+Los **servidores gratuitos** presentan numerosos inconvenientes que generan desconfianza en los usuarios de nuestro sitio web. Un ejemplo sería el tipo de URL que ofrecen, generalmente larga y difícil de memorizar. Así mismo, no contaríamos con el servicio técnico 24 horas tan necesario en este tipo de negocios. Un segundo marca la diferencia. Si un usuario trata de acceder a nuestro sitio web y encuentra dificultades rápidamente redirigirá su búsqueda perdiendo, de esta manera, a un posible cliente potencial. Además, otra inconveniencia es la presencia de publicidad no deseada.
+
+En este punto cabe aclarar que a pesar de no cobrar a nuestros usuarios por los servicios prestados , el tratamiento que les daremos es de **CLIENTES**, ya que gracias a ellos podremos optar a utilizar nuestra web como plataforma para diferentes campañas publicitarias. Esa será la fuente de nuestros ingresos y para ello necesitamos el mayor número de visitas.
 
 La segunda opción presenta también serios inconvenientes, a pesar de ser servicios de pago el bajo coste que suponen implica que independientemente de las promesas que nos hagan en cuanto a servicio técnico y rapidez de actuación, rara vez puedan cumplirlo debido a la falta de solidez en sus estructuras.
 
 Por todo ello nos decantamos por un servicio de pago para hospedar nuestro sitio web.
-
-
-
-
-
-
-
-
 
 ----------------------------------------
 ----------------------------------------
