@@ -182,16 +182,13 @@ Nuestra cartera de productos se compone, por lo tanto de:
 ###3.2. Descripción de las características técnicas de los productos o servicios
 
 Desarrollamos una página web donde el usuario podrá visualizar los servicios que se ofrecen a través de la interfaz
-gráfica creada usando los lenguajes de programación html, css, php y javascript. La página incorpora un diseño 
-responsivo el cual se adaptará a los diferentes dispositivos existentes (ordenador en sus diferentes resoluciones, 
-tableta gráfica, móvil...) para que los usuarios puedan acceder desde donde quieran y cuando quieran. 
+gráfica creada usando técnicas informáticas modernas tales como html, css, php, javascript, boostrap, jquery, mysql... La página incorpora un diseño responsivo, el cual se adaptará a los diferentes dispositivos existentes (ordenador en sus diferentes resoluciones, tableta gráfica, móvil...) para que los usuarios puedan acceder desde donde quieran y cuando quieran. 
 
 Para que el usuario pueda beneficiarse de todos nuestros servicios de forma integral primero deberá registrarse 
-facilitándonos una serie de datos muy básicos (algunos de manera opcional) para que se pueda generar su perfil 
+facilitándonos una serie de datos muy básicos (algunos de manera opcional) para que se pueda generar su perfil, 
 el cual servirá para que otros usuarios lo utilicen como referencia a la hora de elegir sus contactos. 
 
-Una vez elegido al 'speaker' con el que deseamos contactar, se le envía una petición solicitando su aceptación. 
-A continuación ambos 'speakers' contactarán (eligiendo la modalidad que prefieran) para practicar los dos idiomas.
+Una vez elegido al 'speaker' (usuario registrado en nuestro portal) con el que deseamos contactar, se le envía una petición solicitando su aceptación. A continuación ambos 'speakers' contactarán (eligiendo la modalidad que prefieran) para practicar los dos idiomas.
 
 Así mismo, los 'speakers' dispondrán de un apartado donde podrán compartir sus experiencias tras haber visitado
 países extranjeros. Facilitaremos la posibilidad de que los usuarios suban sus fotografías a galerías
