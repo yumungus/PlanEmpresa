@@ -200,14 +200,13 @@ contactos.
 
 La globalización cada vez está más a la orden del día. Debido a la actual crisis mundial disminuye la posibilidad de viajar para muchas personas. Así mismo, existe un nicho de mercado que busca ampliar su conocimiento de idiomas y que además utilizan asiduamente el ordenador ya sea en sus hogares, puestos de trabajo o locales especializados para ello. 
 
-Gran parte de la población es consumidora habitual de redes sociales. Es aquí donde encontramos nuestra oportunidad de negocio. Nuestra primera estrategia diferenciadora con la competencia se basa en ser los primeros en lanzar un producto de estas características en la red. Cierto es que existen plataformas para que la gente contacte con personas de otras partes del mundo pero ninguna de ellas reune aún las 3 características principales que venimos comentando.
-1. Búsqueda por perfil de otra persona semejante a nosotros con el fin de practicar su idioma nativo.
-2. Búsqueda del speaker por lugar de residencia para que nos ayude a planificar nuestro próximo viaje.
-3. Acceso a la galería de imágenes para poder ver instantáneas reales de los lugares que nos interesan hechas por personas como nosotros.
+Gran parte de la población es consumidora habitual de redes sociales. Es aquí donde encontramos nuestra oportunidad de negocio. Nuestra primera estrategia diferenciadora con la competencia se basa en ser los primeros en lanzar un producto de estas características en la red. Cierto es que existen plataformas para que la gente contacte con personas de otras partes del mundo pero ninguna de ellas reune aún las 3 características principales que venimos comentando:
 
+**1.** Búsqueda por perfil de otra persona semejante a nosotros con el fin de practicar su idioma nativo.  
+**2.** Búsqueda del speaker por lugar de residencia para que nos ayude a planificar nuestro próximo viaje.  
+**3.** Acceso a la galería de imágenes para poder ver instantáneas reales de los lugares que nos interesan hechas por personas como nosotros.  
 
 Pretendemos ser un referente de redes socialiales para la práctica de idiomas y planificación de viajes. Por ello, trabajaremos para conseguir la máxima satisfación de nuestros usuarios y forjarnos de este modo una imagen de marca.
-
 
 
 ----------------------------------------
