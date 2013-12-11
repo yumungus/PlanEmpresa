@@ -162,19 +162,20 @@ en las posibilidades que nos ofrece a largo plazo.
 ###3.1. Identificación de los productos / servicios
 
 Ofrecemos un portal de comunicación que facilite el contacto entre personas de distintas partes del mundo con el
-fín de desarrollar o ampliar sus dotes comunicativas en diferentes idiomas. Para ello dispondrán de un sistema
-de multiconferencia y de multichat integrado en nuestra plataforma. Así mismo , ofrecemos la posibilidad a nuestros usuarios de planificar sus viajes contando para ello con un medio de contacto, a través de nuestra web, con una persona nativa del destino que queremos visitar.
-Por todo ello, ofrecedmos un producto que reune las siguientes características:
-1. Multi-producto (práctica de idiomas + planificación de viajes).
-2. Es un productos que satisface la demanda del mercado.
-3. Producto diferenciado de los posibles competidores que podamos tener.
-4. Producto que se basa en acercar a personas que habland distintos idiomas pero que tienen perfiles muy semejantes.
-5. Producto con un mayort valor percibido gracias a los atributos añadidos.
+fin de desarrollar o ampliar sus dotes comunicativas en diferentes idiomas. Para ello, dispondrán de un sistema
+de **multiconferencia** y de **multichat** integrado en nuestra plataforma. Así mismo, ofrecemos la posibilidad a nuestros usuarios de **planificar sus viajes** contando para ello con un medio de contacto, a través de nuestra web, con una persona nativa del destino que queremos visitar.
+
+Por todo ello, ofrecemos un producto que reune las siguientes características:  
+1. Multi-producto (práctica de idiomas + planificación de viajes).  
+2. Es un producto que satisface la demanda del mercado.  
+3. Producto diferenciado de los posibles competidores que podamos tener.  
+4. Producto que se basa en acercar a personas que hablan distintos idiomas pero que tienen perfiles muy semejantes.  
+5. Producto con un mayor valor percibido gracias a los atributos añadidos.  
 
 
-Nuestra cartera de productos se compone, por lo tanto de:
-1. Multichat y multiconferencia para facilitar la comunicación entre nuestros usuarios con el fin de practicar un idiomna.
-2. Multichat y multiconferencia para facilitar la comunicación entre nuestros usuarios con el fin de organizar un viaje.
+Nuestra cartera de productos se compone, por lo tanto de:  
+1. Multichat y multiconferencia para facilitar la comunicación entre nuestros usuarios con el fin de practicar un idioma.  
+2. Multichat y multiconferencia para facilitar la comunicación entre nuestros usuarios con el fin de organizar un viaje.  
 3. Galería de imágenes donde podrán acceder para conocer más detalles sobre el lugar que están interesados, ya sea para viajar o para conocer más a fondo.
 
 
