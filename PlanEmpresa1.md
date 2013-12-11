@@ -30,7 +30,7 @@ información de residentes del país que quieren visitar.
 
 El motivo por el que hemos elegido esta idea en detrimento de otras es debido a:
 * La necesidad no demorable de que los españoles hablen inglés.
-* Una vez demostrado que el método que se viene impartiendo tanto en las academias como en los centros de enseñanza
+* Demostrado que el método que se viene impartiendo tanto en las academias como en los centros de enseñanza
 españoles no es válido, proponemos una nueva alternativa (llevada a cabo con éxito en muchos países) aprender hablando con nativos.
 * No solo partimos de la motivación ya comentada sino que además ofrecemos la posibilidad de interactuar con
 personas de todo el mundo facilitándonos el conocimiento de su cultura de primera mano. 
@@ -47,24 +47,17 @@ la idea.
 
 ###1.7. **Cuantificación de la inversión necesaria y su financiación:**
 
-Calcularemos la inversión inicial teniendo en cuenta los gastos fijos mensuales que vamos a tener resultantes de la suma de los siguientes conceptos:
-1. Registro del dominio.
-2. Hospedaje web.
+Calcularemos la inversión inicial teniendo en cuenta los gastos fijos mensuales que vamos a tener resultantes de la suma de los siguientes conceptos:    
+1. **Registro del dominio**.  
+2. **Hospedaje web**.  
 
-
-Esto supone un coste mensual de 50 euros. Anualmente supondrá un coste de 600 euros por lo que cada socia aportartá 200 euros iniciales adicionales a los 1000 aportados en la constitución de la sociedad. 
-
+Esto supone un coste mensual de 50 euros. Anualmente supondrá un coste de 600 euros por lo que cada socia aportartá 200 euros iniciales adicionales a los 1000 aportados en la constitución de la sociedad.    
 
 Ya que se trata de una empresa online y cada una de las socias trabajará inicialmente en su domicilio con su propio material (ordenador, impresora...) la inversión inicial es muy reducida. A medida que nuestra plataforma vaya ganando adeptos se irán realizando inversiones para extender y diversificar la oferta.
 
-
-
-
-
-> + **Inversión** 600.Euros.
-> + **Financiación propia**	600.Euros.
-
-
+> + **Inversión:** 600€.
+> + **Financiación propia:**	600€.
+  
 
 ----------------------------------------
 ----------------------------------------
