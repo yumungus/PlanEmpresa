@@ -139,14 +139,24 @@ Ya que se trata de una empresa online y cada una de las socias trabajará inicia
      + Actitud no derrochadora 
      
 ####**Siomara Vallejos Holguin :**
- + **Titulacion:**       
-     + Desarrollo de Aplicciones web cursado en I.E.S. MARIA DE ZAYAS Y SOTOMAYOR   
+ + **Titulacion:**
+     + Bachillerato de Ciencias de la Salud y Naturales 
+     + Grado Superior de Desarrollo de Aplicciones web cursado en I.E.S. MARIA DE ZAYAS Y SOTOMAYOR 
+     
  + **Experiencia profesional:**     
      + Empresa SOFTWAREIM S.A. : programador senior     
        Parte del equipo de desarrollo encargado de evolución de portales web de empresas de forma segura.
+
  + **Habilidades que favorecen al proyecto:**
-
-
+     
+     + Adaptable a los cambios     
+     + Predisposicion para asumir los riesgos    
+     + Planteamiento de los temas con vision al futuro  
+     + Capacidad de cooperación    
+     + Trabajo en equipo  
+     + Sacrificio de tiempo libre si el trabajo lo demanda   
+    
+     
 ###**2.3. Grado de dedicación futura al proyecto:**
 
 El entusiasmo que nos otorga este proyecto nos motiva a trabajar plenamente en este plan de futuro ya que confiamos 
