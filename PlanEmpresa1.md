@@ -269,6 +269,28 @@ Por todo ello nos decantamos por un servicio de pago para hospedar nuestro sitio
 
 + **Aspectos generales del sector**
 
+Con este proyecto nos situaremos en el sector servicios ocupando múltiples áreas como es la informática, los idiomas
+y el turismo. Ofrecemos la herramienta para que dos o más personas se comuniquen libremente para obtener un beneficio
+mútuo, aprender el idioma que le interese en primer lugar y tener la oportunidad de planificar más personalmente un
+viaje en segundo plano. 
+
+Actualmente el mundo de la informática está en alza, hasta la tarea más sencilla se puede realizar vía internet.
+Nosotros hemos aprobechado este factor para poder ofrecer nuestro servicio al mayor número de personas posible, el país
+y/o idioma que hablen es indiferente. 
+
+Consideramos que el aprendizaje de idiomas es algo que siempre va a ser necesario y tenerlo al alcance de un simple click facilita mucho las cosas al cliente, por ello pensamos que nos situamos en un mercado de expansión debido a la
+necesidad cada vez más alta de que la gente se pueda expresar en más idiomas que solo el utilizado habitualmente.
+
+Nuestro servicio se facilitará a una gran franja de usuarios, es cierto que habrá áreas que por cuestiones personales o profesionales puedan usarlo más, pero a modo general nuestro servicio podrá ser utilizado por todas aquellas personas que hayan cumplido la mayoría de edad en sus respectivos países (18 años en España, 21 en Estados unidos...)
+
+No se contempla que nuestro proyecto vaya a romper ninguna estructura actual del mercado pero sí esperamos poder
+ofrecer una herramienta que facilite la vida de la gente.
+
+Actualmente está todo inventado, pero eso no quiere decir que esté desarrollado de la manera óptima, con nuestro proyecto pretendemos ofrecer un servicio útil, intuitivo y fácil de usar para todo el mundo. No será necesario conocer especificacines concretas para usarlo ya que teniendo un conocimiento básico de internet puedes manejarlo perfectamente.
+
+Dependiendo del país y/o zona del mismo en el que el cliente se sitúe habrá más o menos actividad a la hora de utilizar nuestro servicio. No es lo mismo la cantidad de recursos del que disponen las personas residentes en Nueva York que las que residen en Queens aunque ambas se sitúen en los Estados unidos. 
+
+
 > En este punto se debe estudiar, en general, el sector donde va a estar el nuevo producto o servicio. Se tienen que 
 > analizar las previsiones y el potencial de crecimiento del sector, y es necesario profundizar en preguntas tales como:
 > ¿es un mercado en expansión o en decadencia?, ¿es un sector concentrado o fragmentado?, ¿existen factores que pueden 
@@ -279,6 +301,8 @@ Por todo ello nos decantamos por un servicio de pago para hospedar nuestro sitio
 > comportamientos de compra de los clientes potenciales.
 
 + **Clientes potenciales**
+ 
+El perfil del cliente potencial será principalmente una persona madura que necesite ampliar conocimientos de idiomas debido a su actividad profesional independientemente de que ésta le obligue a viajar al extranjero o no. 
 
 > El estudio de mercado debe determinar quienes son y serán los clientes potenciales. Éstos deben ser agrupados en 
 > grupos relativamente homogéneos con características comunes.
