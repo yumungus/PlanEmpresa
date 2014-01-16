@@ -290,7 +290,6 @@ Actualmente está todo inventado, pero eso no quiere decir que esté desarrollad
 
 Dependiendo del país y/o zona del mismo en el que el cliente se sitúe habrá más o menos actividad a la hora de utilizar nuestro servicio. No es lo mismo la cantidad de recursos del que disponen las personas residentes en Nueva York que las que residen en Queens aunque ambas se sitúen en los Estados unidos. 
 
-
 > En este punto se debe estudiar, en general, el sector donde va a estar el nuevo producto o servicio. Se tienen que 
 > analizar las previsiones y el potencial de crecimiento del sector, y es necesario profundizar en preguntas tales como:
 > ¿es un mercado en expansión o en decadencia?, ¿es un sector concentrado o fragmentado?, ¿existen factores que pueden 
@@ -302,7 +301,13 @@ Dependiendo del país y/o zona del mismo en el que el cliente se sitúe habrá m
 
 + **Clientes potenciales**
  
-El perfil del cliente potencial será principalmente una persona madura que necesite ampliar conocimientos de idiomas debido a su actividad profesional independientemente de que ésta le obligue a viajar al extranjero o no. 
+El perfil del cliente potencial será principalmente una persona madura que necesite ampliar conocimientos de idiomas debido a su actividad profesional independientemente de que ésta le obligue a viajar al extranjero o no. Al ser algo necesario para el correcto funcionamiento de su trabajo pensamos que el grado de receptividad de los clientes que
+correspondan a este perfil será alto. 
+
+Otro sector a tener en cuenta es el adolescente, sobre todo el universitario, ya que en estas edades se desarrolla no 
+solo el conocimiento de otros idiomas sino su uso en situaciones concretas que los ubican en países extranjeros
+para la realización de prácticas, cursos o trabajos, como es el caso de Erasmus. Debido a que este sector es el que por un motivo u otro es el que más maneja el uso de internet y el interés por las redes sociales es más alta vemos que el 
+grado de receptividad será alto.
 
 > El estudio de mercado debe determinar quienes son y serán los clientes potenciales. Éstos deben ser agrupados en 
 > grupos relativamente homogéneos con características comunes.
@@ -325,6 +330,11 @@ El perfil del cliente potencial será principalmente una persona madura que nece
 > avance de las telecomunicaciones, el comercio electrónico etc.
 
 + **Barreras de entrada**
+
+El principal incoveniente inicial que encontramos en nuestro proyecto es el conocimiento de nuestro servicio a los usuarios. Internet es un método de comunicación muy accesible por todos actualmente pero también es muy extenso, cada
+día hay una web que ofrece un servicio nuevo que los usuarios no conocen de modo que no podemos esperar que por sí solos vayan a localizar nuestro producto de manera inmediata. 
+
+Esto se soluciona facilmente gracias a que podemos mandar información fácilmente por múltiples métodos para captar la atención de futuros usuarios ya sea a través de email, redes sociales, publicaciones en foros o revistas, de boca a boca...
 
 > El estudio de mercado debe analizar las barreras de entrada presentes y futuras en el mercado para poder determinar 
 > la viabilidad previa del acceso al mismo y la fortaleza del producto o servicio en él.
