@@ -319,6 +319,10 @@ grado de receptividad será alto.
 
 + **Análisis de la competencia**
 
+ La competencia en sus paginas web se centra en un tema en concreto por ejemplo:
+ las de idiomas en enseñar idiomas,las de turismo en mostrar lo turisco de nuestro mundo y las de redes sociales el  poder conocer gente ode todo el mundo,etc.
+ En nuetra pagina web podremos conocer gente de todo el mundo que este registrado en nuetra pagina,aprender idiomas entre ellos mismos y poder hacer turismo web atraves de los comentarios,fotos y contacto atraves de nuetros usuarios.
+-----------------------------------------------------
 > El promotor debe conocer el tipo de competidores a los que se va a enfrenar y sus fortalezas y debilidades. Tiene que 
 > tener información de su localización, las características de sus productos o servicios, sus precios, su calidad, la 
 > eficacia de su distribución, su cuota de mercado, sus políticas comerciales etc.
