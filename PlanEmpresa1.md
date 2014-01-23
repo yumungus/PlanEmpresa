@@ -326,6 +326,10 @@ Esto se soluciona facilmente gracias a que podemos mandar información fácilmen
 
 + **Estrategia de precios**
 
+Los servicios que ofrecemos serán inicialmente gratuitos, para disponer de ellos el cliente solo tendrá que registrarse en nuestra web facilitándonos cierta información básica sin llegar a ser excesivamente personal como para suponer un riesgo para el usuario. 
+
+Una vez nuestro producto sea más conocido y utilizado pondríamos a disposición de nuestros usuarios mayor cantidad de servicios con una serie de privilegios más elevados los cuales le permitirán realizar mayor cantidad de actividades y disponer de gran cantidad de herramientas que inicialmente no son proporcionadas a los usuarios. Para ello deberán abonar una pequeña cantidad de dinero.
+
 > Se debe fijar los precios de comercialización del producto o servicio y compararlos con los de la competencia. A 
 > continuación hay que cuantificar el margen bruto y calcular si dicho margen puede soportar los diferentes tipos de 
 > costes y generar un beneficio para la empresa.
