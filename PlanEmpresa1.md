@@ -263,10 +263,6 @@ Por todo ello nos decantamos por un servicio de pago para hospedar nuestro sitio
 
 ##5. ANÁLISIS DEL MERCADO
 
-> Este apartado del Plan de Empresa nos ayudará a determinar la existencia de un mercado para el producto o servicio, 
-> y mediante la información que se obtenga se podrá diseñar una estrategia de penetración y diferenciación de los 
-> mismos. Un análisis de mercado debe contemplar los siguientes puntos:
-
 + **Aspectos generales del sector**
 
 Con este proyecto nos situaremos en el sector servicios ocupando múltiples áreas como es la informática, los idiomas
@@ -290,14 +286,6 @@ Actualmente está todo inventado, pero eso no quiere decir que esté desarrollad
 
 Dependiendo del país y/o zona del mismo en el que el cliente se sitúe habrá más o menos actividad a la hora de utilizar nuestro servicio. No es lo mismo la cantidad de recursos del que disponen las personas residentes en Nueva York que las que residen en Queens aunque ambas se sitúen en los Estados unidos. 
 
-> En este punto se debe estudiar, en general, el sector donde va a estar el nuevo producto o servicio. Se tienen que 
-> analizar las previsiones y el potencial de crecimiento del sector, y es necesario profundizar en preguntas tales como:
-> ¿es un mercado en expansión o en decadencia?, ¿es un sector concentrado o fragmentado?, ¿existen factores que pueden 
-> influenciar la actual estructura de mercado de forma considerable?, ¿nuevas tendencias de la industria, factores 
-> socioeconómicos, tendencias demográficas, etc.?.
-
-> Hay que analizar el tamaño actual del mercado, el porcentaje de crecimiento o decrecimiento del mismo y los 
-> comportamientos de compra de los clientes potenciales.
 
 + **Clientes potenciales**
  
@@ -309,30 +297,12 @@ solo el conocimiento de otros idiomas sino su uso en situaciones concretas que l
 para la realización de prácticas, cursos o trabajos, como es el caso de Erasmus. Debido a que este sector es el que por un motivo u otro es el que más maneja el uso de internet y el interés por las redes sociales es más alta vemos que el 
 grado de receptividad será alto.
 
-> El estudio de mercado debe determinar quienes son y serán los clientes potenciales. Éstos deben ser agrupados en 
-> grupos relativamente homogéneos con características comunes.
-
-> El estudio deberá demostrar el grado de receptividad de los clientes potenciales a los productos o servicios 
-> ofertados, e igualmente tendrá que describir los elementos en los que los clientes basan sus decisiones de 
-> compra(precio, calidad, distribución, servicio, etc.). En el caso de que existieran clientes potenciales interesados 
-> en el producto o servicio, esto sería muy favorable de cara a posibles futuros inversores.
 
 + **Análisis de la competencia**
 
-La competencia en sus paginas web se centran en un tema en concreto por ejemplo: las de idiomas en enseñar idiomas,las de turismo en mostrar lo turistico de nuestro mundo y las de redes sociales el poder conocer gente de todo el mundo,etc.
-En nuetra pagina web podremos conocer gente de todo el mundo que este registrado en nuestra pagina,aprender idiomas entre ellos mismos y poder hacer turismo web atraves de los comentarios,fotos y contacto atraves de nuetros
-usuarios.
- 
- 
-> El promotor debe conocer el tipo de competidores a los que se va a enfrenar y sus fortalezas y debilidades. Tiene que 
-> tener información de su localización, las características de sus productos o servicios, sus precios, su calidad, la 
-> eficacia de su distribución, su cuota de mercado, sus políticas comerciales etc.
+Las páginas web de la competencia se enfocan principalmente en brindar un único servicio, ya sea enseñar idiomas, 
+planificación de viajes (facilitando tanto información como imagenes en galerías de distintos lugares alrededor del mundo), permitir el contacto de personas que inicialmente se desconocen... Nosotros ofrecemos estos tres servicios principales y otros más secundarios (como servicios de blog y personalización de avatares) en una única página web, de este modo los usuarios podrán beneficiarse de todas herramientas sin necesidad de estar registrados en múltiples páginas similares. 
 
-> Hay que conocer a los líderes en cada una de las características vistas anteriormente y la importancia que otorgan a 
-> las mismas los clientes potenciales.
-
-> Dentro del análisis de la competencia actualmente es necesario tener en cuenta la globalización de la economía, el 
-> avance de las telecomunicaciones, el comercio electrónico etc.
 
 + **Barreras de entrada**
 
@@ -340,9 +310,6 @@ El principal incoveniente inicial que encontramos en nuestro proyecto es el cono
 día hay una web que ofrece un servicio nuevo que los usuarios no conocen de modo que no podemos esperar que por sí solos vayan a localizar nuestro producto de manera inmediata. 
 
 Esto se soluciona facilmente gracias a que podemos mandar información fácilmente por múltiples métodos para captar la atención de futuros usuarios ya sea a través de email, redes sociales, publicaciones en foros o revistas, de boca a boca...
-
-> El estudio de mercado debe analizar las barreras de entrada presentes y futuras en el mercado para poder determinar 
-> la viabilidad previa del acceso al mismo y la fortaleza del producto o servicio en él.
 
 
 ----------------------------------------
