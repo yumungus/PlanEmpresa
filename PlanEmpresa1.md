@@ -337,12 +337,12 @@ Las videollamadas grupales están sujetas a un límite de uso razonable de 62 ho
 
 PRECIO DE SERVICIOS EN EUROPA
  
-###YAKETTY YAK                                                        
+### YAKETTY YAK                                                        
 Publicidad 40 euros mensual.                                  
 Multiconferencia 3,99 euros minuto pasada las 2 horas por dia . 
 
-###OTRAS
-Publicidad > 70 euros mensual 
+### OTRAS
+Publicidad > 70 euros mensual.
 Multiconferencia  6,7 cts/min * participante.
 
 ###Suministrador SKIPE 
