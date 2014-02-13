@@ -378,6 +378,8 @@ Multiconferencia  6,7 cts/min * participante.
 
 + **Promoción y publicidad**
 
+Anuncios publicitarios en revistas,folletos.
+Publicaciones en facebook,twitter,foros,etc.
 > El plan de marketing ha de describir las fórmulas que se van a utilizar para atraer a los clientes potenciales. Es 
 > importante elaborar un plan de medios que recoja las medidas promocionales en que se piensa incurrir, tales como 
 > mailings, presentaciones en ferias, artículos y anuncios en revistas especializadas, etc.
