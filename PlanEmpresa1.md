@@ -331,17 +331,24 @@ Los servicios que ofrecemos serán inicialmente gratuitos, para disponer de ello
 Una vez nuestro producto sea más conocido y utilizado pondríamos a disposición de nuestros usuarios, mayor cantidad de servicios con una serie de privilegios más elevados los cuales le permitirán realizar mayor cantidad de actividades y disponer de gran cantidad de herramientas que inicialmente no son proporcionadas a los usuarios. Para ello deberán abonar una pequeña cantidad de dinero.
 
 =======================================================================================
+
 Las videollamadas grupales están sujetas a un límite de uso razonable de 100 horas por mes y no más de 10 horas por día, y un límite de 4 horas por videollamada individual. Una vez alcanzados estos límites, se cobrar la videollamada y la llamada pasará a ser una llamada de audio.
 
 
 PRECIO DE SERVICIOS EN EUROPA
  
-YAKETTY YAK                                                        OTRAS
-Publicidad 40 euros mensual.                                Publicidad > 70 euros mensual 
-Multiconferencia 3,99 euros minuto.                            Multiconferencia  6,7 cts/min * participante.
+###YAKETTY YAK                                                        
+Publicidad 40 euros mensual.                                  
+Multiconferencia 3,99 euros minuto. 
 
-Suministrador SKIPE 
+###OTRAS
+Publicidad > 70 euros mensual 
+Multiconferencia  6,7 cts/min * participante.
+
+###Suministrador SKIPE 
+ 
  multiconferencia 1,99 minuto 
+ 
 =========================================================================================================
 
 > Se debe fijar los precios de comercialización del producto o servicio y compararlos con los de la competencia. A 
