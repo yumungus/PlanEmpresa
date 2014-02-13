@@ -332,14 +332,14 @@ Una vez nuestro producto sea más conocido y utilizado pondríamos a disposició
 
 =======================================================================================
 
-Las videollamadas grupales están sujetas a un límite de uso razonable de 100 horas por mes y no más de 10 horas por día, y un límite de 4 horas por videollamada individual. Una vez alcanzados estos límites, se cobrar la videollamada y la llamada pasará a ser una llamada de audio.
+Las videollamadas grupales están sujetas a un límite de uso razonable de 62 horas por mes y un límite de 2 horas por dia en videollamada individual. Una vez alcanzados estos límites, se cobrar la videollamada.
 
 
 PRECIO DE SERVICIOS EN EUROPA
  
 ###YAKETTY YAK                                                        
 Publicidad 40 euros mensual.                                  
-Multiconferencia 3,99 euros minuto. 
+Multiconferencia 3,99 euros minuto pasada las 2 horas por dia . 
 
 ###OTRAS
 Publicidad > 70 euros mensual 
