@@ -369,7 +369,7 @@ Publicidad > 70 euros mensual
 
 + **Promoción y publicidad**
 
-Anuncios publicitarios en revistas,folletos.
+Anuncios publicitarios en revistas,folletos
 
 Publicaciones en facebook,twitter,foros,etc.
 
