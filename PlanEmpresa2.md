@@ -34,7 +34,10 @@ Para los posibles contratos con terceros ajenos a la empresa se llevarán a cabo
 **2. Gestión administrativa y contable:** Lo realizará Belén Malo para actualizar conocimientos acerca del papeleo requerido para el buen funcionamiento y legalidad de la empresa.  
 **3. Curso de Seguridad y protección de datos:** Lo realizará Siomara Vallejos para garantizar la seguridad de la información asi como de las cuentas de nuestros clientes.  
 **4. Curso de diseño gráfico y diseño web:** Lo realizará Inma Reyes para mejorar visualmente la aplicación creando una sensación de bienestar y fácil navegabilidad al cliente.   
-**5. Charlas de nuevas tecnologías:** Los tres promotores asistirán a charlas y eventos relacionados con la informática con el objetivo de informarse y actualizar la aplicación conforme a las nuevas tecnologías.   
+**5. Charlas de nuevas tecnologías:** Los tres promotores asistirán a charlas y eventos relacionados con la informática con el objetivo de informarse y actualizar la aplicación conforme a las nuevas tecnologías.
+
+
+//////////////meter organigrama
 
 
 ----------------------------------------
