@@ -3,29 +3,38 @@
 
 ##**7. ORGANIZACIÓN Y PERSONAL**
 
-> Este apartado del Plan de Empresa tiene como objetivo garantizar el correcto funcionamiento de los diferentes 
-> departamentos de la empresa, así como una apropiada coordinación de los mismos.
+####**7.1. Organización de tareas**
+La organización de la empresa para el desarrollo de la actividad empresarial se divide en tres grandes áreas:  
+**1. Mantenimiento y desarrollo de servicios en la aplicación:**  Realizada por los tres promotores especializándose cada una en una rama siendo estas las siguientes: **diseño y estructura de la apliación** (Inma Reyes), **mantenimiento y buen funcionamiento de la base de datos** (Siomara Vallejos) y **mejoras en funcionamiento de aplicaciones** (Belen Malo).  
+**2. Atención al cliente y relaciones públicas:** La primera será realizada por Inma Reyes y la segunda por Siomara Vallejos.  
+**3. Gestión administrativa y contable:**  Realizada por Belén Malo.
 
-> Debe incluir una descripción detallada de las funciones de todos los puestos de la empresa, directivos y de línea. 
-> Para cada persona que ocupe un puesto de responsabilidad es necesario describir en detalle su experiencia profesional
-> y su especialización en una determinada área funcional. Estas referencias hace que aumente la confianza de los 
-> posibles inversores en el equipo gestor.
+Aunque cada una se especialice en cubrir una determinada área se podrá disponer de todo el personal que se necesite en cualquiera de las áreas que necesiten atención y que no se pueda cubrir con la organización previamente escrita. Así mismo, conforme vaya creciendo la empresa y la demanda de más servicios a cubrir se contratarán empleados de forma parcial en un principio y de forma indeterminada si los responsables lo ven así conveniente.
 
-> También conviene describir las responsabilidades y tareas concretas que cada miembro de la organización ejercerá en 
-> el proyecto.
+####**7.2. Número de trabajadores**
+Inicialmente tres, los promotores. Este número se verá incrementado conforme se necesiten más trabajadores contratados primero de forma parcial y finalmente indefinida si se cree conveniente.
 
-> En cuanto al personal de línea, es necesario recoger las categorías laborales que existirán en la empresa, las tareas
-> a desempeñar por cada una de esas categorías, el convenio laboral al que se acogen los trabajadores, las fórmulas de
-> contratación y el número de trabajadores por categoría y puesto estableciendo turnos de trabajo que garanticen el
-> correcto funcionamiento de la empresa, y finalmente la remuneración correspondiente a cada grupo de trabajadores.
+####**7.3. Perfiles Profesionales**
 
-> También es importante hacer referencia a la política global de la empresa en el área de recursos humanos, donde 
-> queden establecidos los planes de formación y especialización para todo el personal, las fórmulas de promoción y 
-> ascensos, y todo aquello que tenga referencia con temas sociales en la empresa.
+**1.** Desarrollador de aplicaciones, administrativo, comercial.   
+**2.** Desarrollador de aplicaciones, diseñador, atención al cliente.  
+**3.** Desarrollador de aplicaciones, responsable de base de datos, relaciones públicas.   
 
-> Igualmente es conveniente confeccionar un organigrama de la empresa por áreas de actividad y que recoja las personas 
-> específicas que ocupen cada puesto de trabajo. Si esto no fuera posible, se debería hacer, al menos, un cuadro 
-> semejante al que se indica, donde se pueda ver el número de trabajadores y el departamento al que pertenecen.
+####**7.4. Métodos de selección de personal**
+Si se decide contratar a algún trabajador adicional se realizará una oferta de trabajo en los principales portales de 
+búsqueda de empleo (infojobs, tecnoempleo...). A las personas que por su perfil y curriculum sean seleaccionadas se le 
+realizará una entrevista personal con el fín de decidir qué persona está más cualificada para ocupar el puesto vacante.
+
+####**7.5. Modalidades de contratación**
+Para los posibles contratos con terceros ajenos a la empresa se llevarán a cabo contratos temporales con opción a contratos indefinidos dependiendo de la buena marcha de la empresa y si sus servicios son requeridos.
+
+####**7.6. Formación de los trabajadores**
+
+**1. Curso de Atención al Cliente:** Será obligatorio cursar un curso básico de atención al cliente tanto por parte de los promotores como por cualquier persona que entre a trabajar en la empresa.  
+**2. Gestión administrativa y contable:** Lo realizará Belén Malo para actualizar conocimientos acerca del papeleo requerido para el buen funcionamiento y legalidad de la empresa.  
+**3. Curso de Seguridad y protección de datos:** Lo realizará Siomara Vallejos para garantizar la seguridad de la información asi como de las cuentas de nuestros clientes.  
+**4. Curso de diseño gráfico y diseño web:** Lo realizará Inma Reyes para mejorar visualmente la aplicación creando una sensación de bienestar y fácil navegabilidad al cliente.   
+**5. Charlas de nuevas tecnologías:** Los tres promotores asistirán a charlas y eventos relacionados con la informática con el objetivo de informarse y actualizar la aplicación conforme a las nuevas tecnologías.   
 
 
 ----------------------------------------
