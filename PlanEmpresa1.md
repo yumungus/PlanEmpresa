@@ -184,8 +184,8 @@ Por todo ello, ofrecemos un producto que reune las siguientes características:
 
 
 Nuestra cartera de productos se compone, por lo tanto de:  
-1. chat ,Multichat,conferencia y multiconferencia para facilitar la comunicación entre nuestros usuarios con el fin de practicar un idioma.  
-2. chat ,Multichat,conferencia y multiconferencia para facilitar la comunicación entre nuestros usuarios con el fin de organizar un viaje.  
+1. Multichat, chat, conferencia y multiconferencia para facilitar la comunicación entre nuestros usuarios con el fin de practicar un idioma.  
+2. Multichat, chat, conferencia y multiconferencia para facilitar la comunicación entre nuestros usuarios con el fin de organizar un viaje.  
 3. Galería de imágenes donde podrán acceder para conocer más detalles sobre el lugar que están interesados, ya sea para viajar o para conocer más a fondo.
 
 
@@ -338,7 +338,7 @@ PRECIO DE SERVICIOS EN EUROPA
 Publicidad 40 euros mensual.                                  
 
 ### OTRAS
-Publicidad > 70 euros mensual
+Publicidad > 70 euros mensual.
  
 =========================================================================================================
 
