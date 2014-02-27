@@ -5,7 +5,7 @@
 
 ####**7.1. Organización de tareas**
 La organización de la empresa para el desarrollo de la actividad empresarial se divide en tres grandes áreas:  
-**1. Mantenimiento y desarrollo de servicios en la aplicación:**  Realizada por los tres promotores especializándose cada una en una rama siendo estas las siguientes: **diseño y estructura de la apliación** (Inma Reyes), **mantenimiento y buen funcionamiento de la base de datos** (Siomara Vallejos) y **mejoras en funcionamiento de aplicaciones** (Belen Malo).  
+**1. Mantenimiento y desarrollo de servicios en la aplicación:**  Realizada por los tres promotores especializándose cada una en una rama siendo estas las siguientes: **diseño y estructura de la apliación** (Inma Reyes), **mantenimiento y buen funcionamiento de la base de datos** (Siomara Vallejos) y **mejoras en funcionamiento y estructura de aplicaciones** (Belen Malo).  
 **2. Atención al cliente y relaciones públicas:** La primera será realizada por Inma Reyes y la segunda por Siomara Vallejos.  
 **3. Gestión administrativa y contable:**  Realizada por Belén Malo.
 
@@ -36,8 +36,36 @@ Para los posibles contratos con terceros ajenos a la empresa se llevarán a cabo
 **4. Curso de diseño gráfico y diseño web:** Lo realizará Inma Reyes para mejorar visualmente la aplicación creando una sensación de bienestar y fácil navegabilidad al cliente.   
 **5. Charlas de nuevas tecnologías:** Los tres promotores asistirán a charlas y eventos relacionados con la informática con el objetivo de informarse y actualizar la aplicación conforme a las nuevas tecnologías.
 
+####**7.6. Organigrama de puestos de trabajo y funciones**
 
-//////////////meter organigrama
+| -------------------------------------------------------------        
+| **Servicio técnico, desarrollo y mantenimiento**   
+| -------------------------------------------------------------   
+| + 1. Diseño y estructura de la apliación.                          
+| + 2. Mantenimiento y buen funcionamiento de la base de datos.       
+| + 3. Mejoras en funcionamiento y estructura de aplicaciones.  
+| + **Personal:** Belén Malo, Inma Reyes y Siomara Vallejos.                        
+| -------------------------------------------------------------        
+
+
+| -------------------------------------------------------------        
+| **Atención al cliente, relaciones públicas y calidad**   
+| -------------------------------------------------------------     
+| + 1. Resolución de problemas.                         
+| + 2. Servicio postventa.      
+| + 3. Control de calidad. 
+| + 4. Relaciones públicas.   
+| + **Personal:** Inma Reyes y Siomara Vallejos.                        
+| ------------------------------------------------------------- 
+
+
+| -------------------------------------------------------------        
+| **Administración y contabilidad**   
+| -------------------------------------------------------------     
+| + 1. Gestión administrativa.                           
+| + 2. Gestión contable.        
+| + **Personal:** Belen Malo.                          
+| ------------------------------------------------------------- 
 
 
 ----------------------------------------
