@@ -319,11 +319,6 @@ Esto se soluciona facilmente gracias a que podemos mandar información fácilmen
 
 ##**6. PLAN DE MARKETING**
 
-> El plan de marketing tiene como objetivo la fijación de las estrategias comerciales que permitan alcanzar la cifra 
-> de facturación que recogerá el análisis económico-financiero.
-
-> Debe servir para explotar la oportunidad de negocio y las ventajas competitivas asociadas a la misma.
-
 + **Estrategia de precios**
 
 Los servicios que ofrecemos serán inicialmente gratuitos, para disponer de ellos el cliente solo tendrá que registrarse en nuestra web facilitándonos cierta información básica sin llegar a ser excesivamente personal como para suponer un riesgo para el usuario. 
@@ -356,36 +351,30 @@ Publicidad > 70 euros mensual.
 
 + **Política de ventas**
 
-> Es necesario describir la composición, forma de contratación y cualificación del equipo de ventas(propios y 
-> representantes), tanto al principio como a medio y largo plazo.
+En un principio los servicios que ofrecemos serán gratuitos así que una política de ventas no será necesaria hasta que apliquemos una tarifa para acceder a unos servicios más potentes que no se aplicará hasta ser conocidos por una gran cantidad de clientes.
 
-> Más tarde hay que describir la política de márgenes comerciales y medidas de promoción ofrecidas a distribuidores, 
-> representantes y comerciantes, y comparar con lo que hace la competencia. Se han de presentar las ventas estimadas 
-> por cada representante o miembro del equipo de ventas, los incentivos diseñados para diferentes volúmenes y los 
-> costes totales de la actividad de ventas y su porcentaje con respecto a la facturación total estimada.
+Una vez establecidos una serie de precios directamente enlazados con la cantidad de servicios ofrecidos y que el cliente podrá abonar en diferentes plazos (mensual,trimestral y anual) y de distintas maneras (paypal, tarjeta de crédito...) la empresa contará con una política de ventas cuyo mayor objetivo es **la satisfacción del cliente**.
 
-> Se hará referencia a los períodos de cobros a clientes y otras consideraciones como descuentos, anticipos, 
-> rappels, etc.
+El tema de ventas será llevado principalmente por la promotora Belén Malo que cuenta con experiencia en el campo de ventas en otros servicios de carácter turístico y cuyas aptitudes la hacen la mejor elección. Sin embargo, conforme la empresa vaya creciendo se irán disponiendo de mayor cantidad de personas especilizadas en venta y atención al cliente para mejorar nuestros servicios y satisfacer todas las necesidades del cliente. 
 
 + **Promoción y publicidad**
 
-Anuncios publicitarios en revistas,folletos
+Nuestro principal modo de darnos a conocer va a ser el boca a boca además de publicaciones en distintos foros de informática asi como en redes sociales populares como facebook o twiter. También podremos disponer de un canal de youtube donde publicar videos con pequeños tutoriales para que los diferentes usuarios vean las posibilidades y servicios que estan a su alcance usando nuestra aplicación.
 
-Publicaciones en facebook,twitter,foros,etc.
+La posibilidad de estar presentes en ferias y eventos relacionados con la informática pueden constituir una gran oportunidad para llegar a gran cantidad de gente como también redactar artículos acerca de nuestro servicio en blogs de tecnología así como en revistas tanto en formato físico como digital cuya expansión es cada vez más grande.
 
-> El plan de marketing ha de describir las fórmulas que se van a utilizar para atraer a los clientes potenciales. Es 
-> importante elaborar un plan de medios que recoja las medidas promocionales en que se piensa incurrir, tales como 
-> mailings, presentaciones en ferias, artículos y anuncios en revistas especializadas, etc.
+Así mismo se recurirá a envios de publicidad masivo como es el mailing y a formatos físicos como es el buzoneo o la entrega de folletos en determinados puntos estratégicos.
 
 + **Canales de distribución**
 
-> Es importante estudiar cuales serán los canales de distribución a utilizar, la política de descuentos y márgenes 
-> a los mismos, la importancia de los costes de distribución con respecto a los costes de comercialización y las 
-> posibilidades de exportación haciendo referencia a la distribución internacional, transporte, seguros, cobros a 
-> clientes internacionales, etc.
+En nuestra empresa nos beneficiaremos del canal de distribución más amplio que actualmente existe: **internet**, una herramienta que practicamente el 90% de la población mundial sabe utilizar o como mínimo ha oído hablar de ella. 
+
+Para ello contaremos con un **servicio de hosting** que nos permitirá disponer de un "lugar" en internet donde situar la totalidad de nuestra aplicación y poder facilitarla al cliente esté donde esté y por múltiples dispositivos como son los ordenadors, tablets, móviles...
+
+Los servicios de alojamiento web supondrán un pequeño coste anual para la empresa que a la larga será apenas perceptible además de que podremos tener acceso a un **servicio de resolución de problemas** en el caso de encontrarnos con algo no esperado que nos suponga algún tipo de molestia a la hora de facilitar el servicio a nuestros clientes.
 
 + **Servicio post-venta y garantía**
 
-> Se debe cuantificar la importancia que para el cliente potencial tiene el contar con tales servicios. Hay que 
-> especificar el tipo de garantía que se ofrece, su duración temporal, quien se encargará del servicio post-venta y 
-> los costes en que se incurre, y compararlos con lo ofertado por la competencia.
+Inicialmente el equipo de trabajo va a estar formado por los tres promotores, cuya especialidad será el desarrollo de aplicaciones web, sin embargo, estarán formados en servicios de atención al cliente para satisfacer las demandas de todos los usuarios que tengan algún problema o no estén satifechos con el servicio de pago otorgado. 
+
+Tanto sus demandas como descontentos nos servirán para mejorar el servicio ofrecido para otorgar una mejor experiencia al usuario disponiendo de dos medios de comunicación de atención al cliente: **vía telefónica** para el inmediato y más personal resolución de problemas y **vía email** para un servicio de correspondencia por escrito en el que se podrá tratar cualqui tema siempre y cuando tenga relación con la aplicación.  
