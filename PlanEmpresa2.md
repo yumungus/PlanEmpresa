@@ -132,25 +132,25 @@ recurrir a recursos ajenos como pueden ser préstamos bancarios.
 
  ***Instalaciones:***
 
- + Instalaciones eléctricas en general y especiales
- + Instalaciones de climatización
+   + Instalaciones eléctricas en general y especiales
+   + Instalaciones de climatización
   
- *** Mobiliario y equipamiento:***
+ ***Mobiliario y equipamiento:***
 
- + Sillas
- + mesas 
- + material de oficina
+   + Sillas
+   + mesas 
+   + material de oficina
 
  ***Equipos informáticos y de procesamiento de la información :***
        
- + Ordenadores 
- + Impresoras
+   + Ordenadores 
+   + Impresoras
 
  **1.2. Inmovilizado inmaterial**
 
- + Antivirus
- + Licencias de software
- + Hosting Profesional 
+   + Antivirus
+   + Licencias de software
+   + Hosting Profesional 
 
 >> **1.3. Gastos amortizables**
 
