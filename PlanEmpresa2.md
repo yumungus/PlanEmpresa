@@ -128,29 +128,29 @@ recurrir a recursos ajenos como pueden ser préstamos bancarios.
 
 > La estructura de los activos fijos que conforman la empresa, ya sean nuevos o usados, es la siguiente:
 
->> **1.1. Inmovilizado material**
+ **1.1. Inmovilizado material**
 
->> ***Instalaciones:***
+ ***Instalaciones:***
 
->> + Instalaciones eléctricas en general y especiales
->> + Instalaciones de climatización
+ + Instalaciones eléctricas en general y especiales
+ + Instalaciones de climatización
+  
+ *** Mobiliario y equipamiento:***
 
->> *** Mobiliario y equipamiento***
+ + Sillas
+ + mesas 
+ + material de oficina
 
->> + Sillas
->> + mesas 
->> + material de oficina
-
->> ***Equipos informáticos y de procesamiento de la información***
+ ***Equipos informáticos y de procesamiento de la información :***
        
->> + Ordenadores 
->> + Impresoras
+ + Ordenadores 
+ + Impresoras
 
->> **1.2. Inmovilizado inmaterial**
+ **1.2. Inmovilizado inmaterial**
 
->> + Antivirus
->> + Licencias de software
->> + Hosting Profesional 
+ + Antivirus
+ + Licencias de software
+ + Hosting Profesional 
 
 >> **1.3. Gastos amortizables**
 
