@@ -138,20 +138,7 @@ recurrir a recursos ajenos como pueden ser préstamos bancarios.
 
 >> Dentro de este capítulo estarían:
 
->> **1.1.1. Terrenos**
->> **1.1.2. Edificaciones y construcciones:**
->> + Trabajos de planificación, ingeniería del proyecto y dirección facultativo
->> + Traídas y acometidas de servicios
->> + Urbanización y obras exteriores
->> + Oficinas y laboratorios
->> + Servicios sociales y sanitarios del personal
->> + Almacenes de materias primas
->> + Edificios de producción
->> + Edificios de servicios industriales
->> + Almacenes de productos terminados
->> + Otras construcciones
-
->> **1.1.3. Instalaciones:**
+>> **Instalaciones:**
 >> + Instalaciones eléctricas en general y especiales
 >> + Instalaciones de climatización. Generadores térmicos. Instalaciones de G.L.P., etc.
 >> + Instalaciones de agua en general y especiales
@@ -159,17 +146,21 @@ recurrir a recursos ajenos como pueden ser préstamos bancarios.
 >> + Equipos de medida y control
 >> + Otras instalaciones internas
 
->> **1.1.4. Maquinaria y herramientas:**
->> + Maquinaria de proceso
->> + Herramienta y utillaje
 
->> **1.1.5. Elementos de transporte interior**  
->> **1.1.6. Mobiliario y equipamiento**  
->> **1.1.7. Equipos informáticos y de procesamiento de la información**  
->> **1.1.8. Elementos de transporte**  
->> **1.1.9. Otros inmovilizados materiales**  
+>> ** Mobiliario y equipamiento**
+Sillas 200
+mesas 60
+material de oficina 30
+>> **Equipos informáticos y de procesamiento de la información**
+       
+Ordenadores 800
+Impresoras 300,50  
 
->> **1.2. Inmovilizado inmaterial**
+>> ** Inmovilizado inmaterial**
+
+Antivirus  30,99
+Licencias de software 50,33
+Hosting Profesional 10,43
 
 >> Son inversiones o elementos patrimoniales intangibles que tiene la empresa con carácter estable y que son 
 >> susceptibles de ser valorados económicamente.
