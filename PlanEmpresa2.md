@@ -74,6 +74,17 @@ Para los posibles contratos con terceros ajenos a la empresa se llevarán a cabo
 
 ##**8. PLAN DE INVERSIONES**
 
+Nuestra empresa ha decidido financiarse a través de recursos propios ya que por el momento no vemos necesario
+financiarnos con recursos ajenos como ser un prestamo bancario a corto o largo plazo ya que en un principio no tendremos mayores gastos a cubrir.
+
+Herramnienta de trabajo  e infraesctructura: lo propio como ser ordenadores y domicilio ,teniendo solo que invertir inicialmente en un Hosting profesional,antivirus y publicidad.
+
+Resursos propios: 4.500 euros de capital aportado por los socios.La aportacion será proporcional al porcentaje de participación de cada uno de ellos.
+
+
+
+
+
 > Este punto refleja la decisión de invertir en una empresa, y se plasmará en el destino que se dará a unos fondos
 > financieros para obtener una serie de recursos necesarios para la realización de un determinado proceso productivo.
 
