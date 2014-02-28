@@ -74,16 +74,13 @@ Para los posibles contratos con terceros ajenos a la empresa se llevarán a cabo
 
 ##**8. PLAN DE INVERSIONES**
 
-Nuestra empresa ha decidido financiarse a través de recursos propios ya que por el momento no vemos necesario
-financiarnos con recursos ajenos como ser un prestamo bancario a corto o largo plazo ya que en un principio no tendremos mayores gastos a cubrir.
+Hemos decidido financiar nuestro proyecto con fondos propios facilitados por los tres promotores, los cuales serán 
+suficientes para cubrir las necesidades y gastos que aparezcan en las etapas iniciales de la empresa sin tener que
+recurrir a recursos ajenos como pueden ser préstamos bancarios. 
 
-Herramnienta de trabajo  e infraesctructura: lo propio como ser ordenadores y domicilio ,teniendo solo que invertir inicialmente en un Hosting profesional,antivirus y publicidad.
+**Herramnienta de trabajo  e infraesctructura:** Principalmente nuestro equipo de trabajo constará de mínimo tres **ordenadores** y todos sus complementos informáticos para facilitar el servicio que ofrecemos. Además se deberá invertir ciertos fondos a **servicios de hosting** que albergará nuestra web, **antivirus* para la seguridad y el correcto funcionamiento de los ordenadores de la empresa, **programas informáticos** gracias a los cuales desarrollaremos nuestra página, **publicidad** de nuestro sitio en páginas ajenas (foros, redes sociales, revistas del género, blogs...)
 
-Resursos propios: 4.500 euros de capital aportado por los socios.La aportacion será proporcional al porcentaje de participación de cada uno de ellos.
-
-
-
-
+**Resursos propios:** Inicialmente contaremos con 4.500 euros de capital el cual será aportado por los socios. Dicha aportacion será proporcional al porcentaje de participación de cada uno de ellos.
 
 > Este punto refleja la decisión de invertir en una empresa, y se plasmará en el destino que se dará a unos fondos
 > financieros para obtener una serie de recursos necesarios para la realización de un determinado proceso productivo.
