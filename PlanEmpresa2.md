@@ -147,16 +147,18 @@ recurrir a recursos ajenos como pueden ser préstamos bancarios.
 >> + Otras instalaciones internas
 
 
->> ** Mobiliario y equipamiento**
+*** Mobiliario y equipamiento***
+
 Sillas 200
 mesas 60
 material de oficina 30
->> **Equipos informáticos y de procesamiento de la información**
+
+***Equipos informáticos y de procesamiento de la información***
        
 Ordenadores 800
 Impresoras 300,50  
 
->> ** Inmovilizado inmaterial**
+*** Inmovilizado inmaterial***
 
 Antivirus  30,99
 Licencias de software 50,33
