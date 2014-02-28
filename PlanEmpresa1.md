@@ -327,12 +327,11 @@ Una vez nuestro producto sea más conocido y utilizado pondríamos a disposició
 
 + ***Precio***
 
-Nuestra principal fuente de ingresos será la publicidad : 
+Nuestra principal fuente de ingresos será la publicidad: 
 Publicidad en Yaketty Yak 30,99 Euros/mes.
 Publicidad en la competencia > 70 Euros/mes. 
 
-Nuestros precios seran bajos a comparación de nuestra competencia,ya que no tendremos mayores gastos como ser el local,
-y lo que conlleva tener dicho sitio.
+Los precios de nuestros servicios seran **más bajos** que los ofrecidos por la competencia debido a que nuestros gastos no tendrán que cubrir elementos con un valor considerable como por ejemplo sería un local. También es verdad que al ser una empresa más pequeña y con menos recursos, al menos en sus etapas iniciales, nos costará atraer la atención de un número de clientes que podamos considerar razonable por lo que el bajo precio y la calidad del producto será nuestra mayor baza a la hora de aumentar nuestra bolsa de clientes. 
 
 + **Política de ventas**
 
