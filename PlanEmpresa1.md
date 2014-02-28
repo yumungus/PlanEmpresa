@@ -325,29 +325,14 @@ Los servicios que ofrecemos serán inicialmente gratuitos, para disponer de ello
 
 Una vez nuestro producto sea más conocido y utilizado pondríamos a disposición de nuestros usuarios, mayor cantidad de servicios con una serie de privilegios más elevados los cuales le permitirán realizar mayor cantidad de actividades y disponer de gran cantidad de herramientas que inicialmente no son proporcionadas a los usuarios. Para ello deberán abonar una pequeña cantidad de dinero.
 
-=======================================================================================
++ ***Precio***
 
-PRECIO DE SERVICIOS EN EUROPA
- 
-### YAKETTY YAK                                                        
-Publicidad 40 euros mensual.                                  
+Nuestra principal fuente de ingresos será la publicidad : 
+Publicidad en Yaketty Yak 30,99 Euros/mes.
+Publicidad en la competencia > 70 Euros/mes. 
 
-### OTRAS
-Publicidad > 70 euros mensual.
- 
-=========================================================================================================
-
-> Se debe fijar los precios de comercialización del producto o servicio y compararlos con los de la competencia. A 
-
-> continuación hay que cuantificar el margen bruto y calcular si dicho margen puede soportar los diferentes tipos de 
-> costes y generar un beneficio para la empresa.
-
-> En el caso de que los precios de los productos o servicios sean menores que los de la competencia, esto se debe 
-> explicar en el Plan de Empresa aludiendo a una mayor eficiencia en la producción, menores costes laborales, menores 
-> costes en la distribución etc.
-
-> Si los costes fueran mayores, habría que explicar el sobreprecio en términos de novedad, calidad, garantía, 
-> prestaciones, servicio, etc.
+Nuestros precios seran bajos a comparación de nuestra competencia,ya que no tendremos mayores gastos como ser el local,
+y lo que conlleva tener dicho sitio.
 
 + **Política de ventas**
 
