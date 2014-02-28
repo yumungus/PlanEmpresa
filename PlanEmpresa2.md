@@ -130,18 +130,18 @@ recurrir a recursos ajenos como pueden ser préstamos bancarios.
 
 >> **1.1. Inmovilizado material**
 
->> **Instalaciones:**
+>> ***Instalaciones:***
 
 >> + Instalaciones eléctricas en general y especiales
->> + Instalaciones de climatización.
+>> + Instalaciones de climatización
 
->> ** Mobiliario y equipamiento**
+>> *** Mobiliario y equipamiento***
 
 >> + Sillas
 >> + mesas 
 >> + material de oficina
 
->> **Equipos informáticos y de procesamiento de la información**
+>> ***Equipos informáticos y de procesamiento de la información***
        
 >> + Ordenadores 
 >> + Impresoras
