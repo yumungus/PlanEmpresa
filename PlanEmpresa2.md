@@ -130,51 +130,27 @@ recurrir a recursos ajenos como pueden ser préstamos bancarios.
 
 >> **1.1. Inmovilizado material**
 
->> Son inversiones que realizará la empresa y que se materializarán en bienes muebles o inmuebles tangibles que no 
->> se destinarán a la venta o transformación.
-
->> Tendrán un período de duración superior a un año y su deterioro o contribución al proceso productivo se 
->> materializará a través de las amortizaciones anuales (a excepción de los terrenos).
-
->> Dentro de este capítulo estarían:
-
 >> **Instalaciones:**
+
 >> + Instalaciones eléctricas en general y especiales
->> + Instalaciones de climatización. Generadores térmicos. Instalaciones de G.L.P., etc.
->> + Instalaciones de agua en general y especiales
->> + Instalaciones de seguridad e higiene
->> + Equipos de medida y control
->> + Otras instalaciones internas
+>> + Instalaciones de climatización.
 
+>> ** Mobiliario y equipamiento**
 
-*** Mobiliario y equipamiento***
+>> + Sillas
+>> + mesas 
+>> + material de oficina
 
-Sillas 200
-mesas 60
-material de oficina 30
-
-***Equipos informáticos y de procesamiento de la información***
+>> **Equipos informáticos y de procesamiento de la información**
        
-Ordenadores 800
-Impresoras 300,50  
+>> + Ordenadores 
+>> + Impresoras
 
-*** Inmovilizado inmaterial***
+>> **1.2. Inmovilizado inmaterial**
 
-Antivirus  30,99
-Licencias de software 50,33
-Hosting Profesional 10,43
-
->> Son inversiones o elementos patrimoniales intangibles que tiene la empresa con carácter estable y que son 
->> susceptibles de ser valorados económicamente.
-
->> Dentro de este capítulo los más frecuentes son:
-
->> + Gastos de investigación y desarrollo
->> + concesiones administrativas
->> + Propiedad industrial
->> + Fondo de comercio
->> + Aplicaciones informáticas
->> + Derechos de traspaso
+>> + Antivirus
+>> + Licencias de software
+>> + Hosting Profesional 
 
 >> **1.3. Gastos amortizables**
 
