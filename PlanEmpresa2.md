@@ -87,6 +87,8 @@ recurrir a recursos ajenos como pueden ser préstamos bancarios.
 
 **1. Inversiones en Activos fijos**
 
+
+
 > Al hablar en este punto de Plan de Inversiones hay que hacer referencia a lo que se denomina de forma genérica 
 > activos fijos, que constituyen una inversión a largo plazo y es una parte de la inversión global de la empresa.
 
@@ -128,36 +130,35 @@ recurrir a recursos ajenos como pueden ser préstamos bancarios.
 
 > La estructura de los activos fijos que conforman la empresa, ya sean nuevos o usados, es la siguiente:
 
-**1.1. Inmovilizado material**
+ **1.1. Inmovilizado material**
 
-**Instalaciones:**
-+ Instalaciones eléctricas en general y especiales  
-+ Instalaciones de climatización  
+ ***Instalaciones:***
+
++ Instalaciones eléctricas en general y especiales
++ Instalaciones de climatización
   
-**Mobiliario y equipamiento:**
-+ Sillas  
-+ Mesas   
-+ Material de oficina  
+ ***Mobiliario y equipamiento:***
 
-**Equipos informáticos y de procesamiento de la información:**
++ Sillas
++ mesas 
++ material de oficina
+
+ ***Equipos informáticos y de procesamiento de la información :***
+       
 + Ordenadores 
-+ Impresoras  
++ Impresoras
 
-**1.2. Inmovilizado inmaterial**
-+ Antivirus  
-+ Licencias de software  
-+ Hosting Profesional   
+ **1.2. Inmovilizado inmaterial**
 
->> **1.3. Gastos amortizables**
++ Antivirus
++ Licencias de software
++ Hosting Profesional 
 
->> Son aquellos gastos en que se incurre hasta el comienzo de la actividad. Forman parte de ellos los gastos de 
->> primer establecimiento y los gastos de constitución. Tienen consideración de gastos plurianuales y por lo tanto 
->> susceptibles de ser amortizados anualmente.
+ **1.3. Gastos amortizables**
 
->> Los más comunes son los de los abogados, notarios, registros, etc. ligados a la constitución de la personalidad 
->> jurídica de la empresa.
++ Gastos de constitucion (Notario,Abogados,Tramitaciones,etc.) 
 
->> **1.4. Inmovilizado financiero**
+**1.4. Inmovilizado financiero**
 
 >> Lo constituye fundamentalmente:
 
