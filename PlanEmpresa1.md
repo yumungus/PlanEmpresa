@@ -51,12 +51,12 @@ Calcularemos la inversión inicial teniendo en cuenta los gastos fijos mensuales
 1. **Registro del dominio**.  
 2. **Hospedaje web**.  
 
-Esto supone un coste mensual de 50 euros. Anualmente supondrá un coste de 600 euros por lo que cada socia aportartá 200 euros iniciales adicionales a los 1000 aportados en la constitución de la sociedad.    
+Esto supone un coste mensual de  7 euros. Anualmente supondrá un coste de 84 euros por lo que cada socia aportartá 28 euros iniciales adicionales a los 6.135 aportados en la constitución de la sociedad.    
 
 Ya que se trata de una empresa online y cada una de las socias trabajará inicialmente en su domicilio con su propio material (ordenador, impresora...) la inversión inicial es muy reducida. A medida que nuestra plataforma vaya ganando adeptos se irán realizando inversiones para extender y diversificar la oferta.
 
-> + **Inversión:** 18.405 €.
-> + **Financiación propia:**	18.405 €.
+> + **Inversión:** 18.489 €.
+> + **Financiación propia:**	18.489 €.
   
 
 ----------------------------------------
