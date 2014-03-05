@@ -15,7 +15,7 @@ Majadahonda, Madrid.
 ###1.4. **Tipo de sociedad:**
 
 La forma jurídica es **Sociedad Limitada**.  
-La empresa estará formada por 3 socios accionistas que participan de forma alícuota y son miembros del consejo de administración. El capital aportado por cada uno de los socios será 1500 euros avalado con garantías reales por cada socio. En los estatutos se fija la no entrada de otros socios sin el consentimiento del 100% del accionariado. En caso de venta de una de las partes, tienen derecho preferencial de compra el resto de los socios de Yakety Yak.  
+La empresa estará formada por 3 socios accionistas que participan de forma alícuota y son miembros del consejo de administración. El capital aportado por cada uno de los socios será 6.135 euros avalado con garantías reales por cada socio. En los estatutos se fija la no entrada de otros socios sin el consentimiento del 100% del accionariado. En caso de venta de una de las partes, tienen derecho preferencial de compra el resto de los socios de Yakety Yak.  
 
 ###1.5. **Explicación breve de la actividad a desarrollar:**
 
@@ -55,8 +55,8 @@ Esto supone un coste mensual de 50 euros. Anualmente supondrá un coste de 600 e
 
 Ya que se trata de una empresa online y cada una de las socias trabajará inicialmente en su domicilio con su propio material (ordenador, impresora...) la inversión inicial es muy reducida. A medida que nuestra plataforma vaya ganando adeptos se irán realizando inversiones para extender y diversificar la oferta.
 
-> + **Inversión:** 600€.
-> + **Financiación propia:**	600€.
+> + **Inversión:** 18.405 €.
+> + **Financiación propia:**	18.405 €.
   
 
 ----------------------------------------
