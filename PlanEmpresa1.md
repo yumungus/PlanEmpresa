@@ -115,7 +115,7 @@ Ya que se trata de una empresa online y cada una de las socias trabajará inicia
      + Grado de Creación Gráfica y Digital en ESDIP  
      + Master en Maquetación de Prensa en Ágora 3  
      + Master en Diseño Gráfico en CEI  
-     + Master en en Edición de Video en CEI  
+     + Master en Creación de Web en CEI 
      + Grado Superior de Desarrollo de Aplicciones web en I.E.S. MARIA DE ZAYAS Y SOTOMAYOR  
 
  + **Experiencia profesional:**     
