@@ -329,10 +329,10 @@ Una vez nuestro producto sea más conocido y utilizado pondríamos a disposició
 
 Nuestra fuente de ingresos será: 
 
-*Diseño,elaboracion y mantenimiento de páginas web personalizadas  para empresas y particulares.  
-*Servicios de Internet: Gestión de dominios y comercio electrónico .
-*Creación Multimedia: Creación de catálogos y presentaciones. 
-*Publicidad para empresas y particulares 
+* Diseño,elaboracion y mantenimiento de páginas web personalizadas  para empresas y particulares.  
+* Servicios de Internet: Gestión de dominios y comercio electrónico .
+* Creación Multimedia: Creación de catálogos y presentaciones. 
+* Publicidad para empresas y particulares. 
 
 Los precios de nuestros servicios seran **más bajos** que los ofrecidos por la competencia debido a que nuestros gastos no tendrán que cubrir elementos con un valor considerable como por ejemplo sería un local. También es verdad que al ser una empresa más pequeña y con menos recursos, al menos en sus etapas iniciales, nos costará atraer la atención de un número de clientes que podamos considerar razonable por lo que el bajo precio y la calidad del producto será nuestra mayor baza a la hora de aumentar nuestra bolsa de clientes. 
 
